@@ -1,0 +1,17 @@
+{
+  "name": "tages-briefing-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Tägliches Nachrichten-Briefing als installierbare PWA mit Web-Push (kostenlose Variante ohne KI).",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "briefing": "node scripts/build-briefing.js",
+    "push": "node scripts/send-push.js",
+    "should-run": "node scripts/should-run.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "web-push": "^3.6.7"
+  }
+}
