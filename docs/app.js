@@ -11,7 +11,9 @@
   const params = new URLSearchParams(location.search);
   const demo = params.get('demo') === '1';
 
-  const state = { index: null, config: null, current: 'today', date: params.get('d'), shownAt: Date.now() };
+  // Nur ein echtes Datum (JJJJ-MM-TT) aus der Adresse zulassen; alles andere zeigt das neueste Briefing.
+  const dateParam = /^\d{4}-\d{2}-\d{2}$/.test(params.get('d') || '') ? params.get('d') : null;
+  const state = { index: null, config: null, current: 'today', date: dateParam, shownAt: Date.now() };
 
   const CAT = {
     de: { label: 'Deutschland', cls: 'cat-de' },
@@ -135,37 +137,75 @@
     return state.config;
   }
 
+  const placeholder = (c1, c2) =>
+    `data:image/svg+xml,${encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 9"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${c1}"/><stop offset="1" stop-color="${c2}"/></linearGradient></defs><rect width="16" height="9" fill="url(#g)"/></svg>`)}`;
+
   const SAMPLE = {
     date: new Date().toISOString().slice(0, 10),
     generatedAt: new Date().toISOString(),
     notes: ['BEISPIELDATEN: Kein echtes Briefing. Diese Ansicht zeigt nur das Layout.'],
     items: [
-      { rank: 1, title: 'Beispiel: Eine längere Überschrift zeigt, wie die wichtigste Meldung des Tages aussieht', summary: 'Kurze Erklärung in ein bis zwei Sätzen. Alles hier ist erfunden und dient nur der Ansicht des Layouts.', url: 'https://example.org/', source: 'Beispielquelle', category: 'tech', alsoReportedBy: ['Zweite Quelle'] },
-      { rank: 2, title: 'Beispiel: Meldung aus Deutschland', summary: 'Zweite Beispielmeldung mit einem Satz Erklärung.', url: 'https://example.org/', source: 'Beispielquelle', category: 'de', alsoReportedBy: [] },
-      { rank: 3, title: 'Beispiel: Meldung aus der Welt', summary: 'Dritte Beispielmeldung.', url: 'https://example.org/', source: 'Beispielquelle', category: 'welt', alsoReportedBy: [] },
-      { rank: 4, title: 'Beispiel: Noch eine Meldung aus Deutschland', summary: 'Vierte Beispielmeldung.', url: 'https://example.org/', source: 'Beispielquelle', category: 'de', alsoReportedBy: [] },
-      { rank: 5, title: 'Beispiel: Technik-Meldung ohne Kurzbeschreibung', summary: 'Keine Kurzbeschreibung im Feed. Details über den Quellenlink.', url: 'https://example.org/', source: 'Beispielquelle', category: 'tech', alsoReportedBy: [] }
+      { rank: 1, title: 'Beispiel: Eine längere Überschrift zeigt, wie die wichtigste Meldung des Tages aussieht', summary: 'Kurze Erklärung in ein bis zwei Sätzen. Alles hier ist erfunden und dient nur der Ansicht des Layouts.', url: 'https://example.org/', source: 'Beispielquelle', category: 'tech', alsoReportedBy: ['Zweite Quelle'], image: placeholder('#5856d6', '#2997ff'), imageSource: 'Beispiel' },
+      { rank: 2, title: 'Beispiel: Meldung aus Deutschland mit Bild', summary: 'Zweite Beispielmeldung mit einem Satz Erklärung.', url: 'https://example.org/', source: 'Beispielquelle', category: 'de', alsoReportedBy: [], image: placeholder('#d70015', '#ff9f0a'), imageSource: 'Beispiel' },
+      { rank: 3, title: 'Beispiel: Meldung aus der Welt ohne Bild', summary: 'Dritte Beispielmeldung. Nicht jeder Feed liefert ein Bild.', url: 'https://example.org/', source: 'Beispielquelle', category: 'welt', alsoReportedBy: [] },
+      { rank: 4, title: 'Beispiel: Noch eine Meldung aus Deutschland', summary: 'Vierte Beispielmeldung.', url: 'https://example.org/', source: 'Beispielquelle', category: 'de', alsoReportedBy: [], image: placeholder('#0066cc', '#30b350'), imageSource: 'Beispiel' },
+      { rank: 5, title: 'Beispiel: Technik-Meldung ohne Kurzbeschreibung', summary: 'Keine Kurzbeschreibung im Feed. Details über den Quellenlink.', url: 'https://example.org/', source: 'Beispielquelle', category: 'tech', alsoReportedBy: [] },
+      { rank: 6, title: 'Beispiel: Weltnachricht mit Bild', summary: 'Sechste Beispielmeldung.', url: 'https://example.org/', source: 'Beispielquelle', category: 'welt', alsoReportedBy: [], image: placeholder('#1c1c1e', '#6e6e73'), imageSource: 'Beispiel' }
     ]
   };
 
   // ---------- Ansicht: Heute ----------
-  function storyItem(item, lead) {
+  // Bilder werden nur von der Adresse des Verlags geladen (nie kopiert) und nur über https.
+  function safeImage(u, allowData) {
+    try {
+      const url = new URL(u);
+      if (url.protocol === 'https:') return url.href;
+      if (allowData && url.protocol === 'data:' && String(u).startsWith('data:image/svg+xml')) return String(u);
+    } catch {
+      /* ungültige Adresse */
+    }
+    return null;
+  }
+
+  function mediaFor(item, allowData) {
+    const src = item.image ? safeImage(item.image, allowData) : null;
+    if (!src) return null;
+    const fig = h('figure', { class: 'story-media' });
+    const img = h('img', { src, alt: '', loading: 'lazy', decoding: 'async', referrerpolicy: 'no-referrer' });
+    // Lässt sich das Bild nicht laden, bleibt die Kachel einfach ohne Bild.
+    img.addEventListener('error', () => {
+      const li = fig.closest ? fig.closest('li') : null;
+      if (li) li.classList.remove('has-media');
+      fig.remove();
+    });
+    fig.append(img);
+    if (item.imageSource) fig.append(h('figcaption', {}, `Bild: ${item.imageSource}`));
+    return fig;
+  }
+
+  function storyItem(item, lead, allowData = false) {
     const href = safeUrl(item.url);
     const cat = catOf(item.category);
     const title = href
       ? h('a', { href, target: '_blank', rel: 'noopener noreferrer' }, item.title)
       : item.title;
+    const media = mediaFor(item, allowData);
     return h(
       'li',
-      { class: `story ${cat.cls}${lead ? ' story--lead' : ''}` },
-      h('p', { class: 'story-cat' }, cat.label),
-      h('h2', { class: 'story-title' }, title),
-      h('p', { class: 'story-sum' }, item.summary),
+      { class: `story ${cat.cls}${lead ? ' story--lead' : ''}${media ? ' has-media' : ''}` },
+      media,
       h(
-        'p',
-        { class: 'story-meta' },
-        h('span', { class: 'src' }, h('strong', {}, item.source), item.alsoReportedBy && item.alsoReportedBy.length ? ` und ${item.alsoReportedBy.join(', ')}` : null),
-        href ? h('span', { class: 'more' }, 'Zur Quelle', chevronIcon()) : null
+        'div',
+        { class: 'story-body' },
+        h('p', { class: 'story-cat' }, cat.label),
+        h('h2', { class: 'story-title' }, title),
+        h('p', { class: 'story-sum' }, item.summary),
+        h(
+          'p',
+          { class: 'story-meta' },
+          h('span', { class: 'src' }, h('strong', {}, item.source), item.alsoReportedBy && item.alsoReportedBy.length ? ` und ${item.alsoReportedBy.join(', ')}` : null),
+          href ? h('span', { class: 'more' }, 'Zur Quelle', chevronIcon()) : null
+        )
       )
     );
   }
@@ -186,7 +226,7 @@
     await loadConfig();
     if (demo) {
       setHeader(dayFmt(SAMPLE.date, { weekday: 'long', day: 'numeric', month: 'long' }), ['Vorschau mit Beispieldaten'], SAMPLE.items.map((i) => i.category));
-      view.append(h('div', { class: 'notice' }, SAMPLE.notes.map((n) => h('p', {}, n))), h('ol', { class: 'stories' }, SAMPLE.items.map((i, n) => storyItem(i, n === 0))));
+      view.append(h('div', { class: 'notice' }, SAMPLE.notes.map((n) => h('p', {}, n))), h('ol', { class: 'stories' }, SAMPLE.items.map((i, n) => storyItem(i, n === 0, true))));
       return;
     }
     const index = await loadIndex();
@@ -197,13 +237,26 @@
       view.append(emptyState());
       return;
     }
-    const b = await getJSON(`data/${date}.json`);
+    // Fehlt die gewünschte Ausgabe (z. B. noch nicht veröffentlicht), wird die neueste gezeigt.
+    let b;
+    let missingDate = null;
+    try {
+      b = await getJSON(`data/${date}.json`);
+    } catch (err) {
+      if (!state.date || !latest || state.date === latest) throw err;
+      missingDate = state.date;
+      state.date = null;
+      b = await getJSON(`data/${latest}.json`);
+    }
     const n = b.items.length;
     setHeader(
       dayFmt(b.date, { weekday: 'long', day: 'numeric', month: 'long' }),
       [`${n} ${n === 1 ? 'Meldung' : 'Meldungen'}`, `Stand ${timeFmt(b.generatedAt)} Uhr`],
       b.items.map((i) => i.category)
     );
+    if (missingDate) {
+      view.append(h('div', { class: 'notice' }, h('p', {}, `Die Ausgabe vom ${dayFmt(missingDate, { day: 'numeric', month: 'long' })} wurde nicht gefunden. Hier steht die neueste.`)));
+    }
     if (state.date && latest && state.date !== latest) {
       view.append(
         h(
@@ -440,7 +493,8 @@
         'div',
         { class: 'text-block' },
         h('p', {}, 'Die Meldungen stammen direkt aus den RSS-Feeds der genannten Quellen. Die App erfindet nichts und kürzt nur den Text aus dem Feed.'),
-        h('p', { class: 'muted' }, `Als App installiert: ${isStandalone() ? 'ja' : 'nein'}`)
+        h('p', { class: 'muted' }, `Als App installiert: ${isStandalone() ? 'ja' : 'nein'}`),
+        h('p', { class: 'muted' }, 'Version 5')
       )
     );
   }
@@ -463,6 +517,14 @@
 
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('sw.js').catch((err) => console.warn('Service Worker:', err));
+    // Antippen einer Mitteilung bei bereits geöffneter App: neuestes Briefing zeigen.
+    navigator.serviceWorker.addEventListener('message', (e) => {
+      if (e.data && e.data.type === 'show-latest') {
+        state.date = null;
+        state.index = null;
+        show('today');
+      }
+    });
   }
 
   show('today');
