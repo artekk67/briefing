@@ -12,22 +12,32 @@
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="Briefing">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
-  <meta name="theme-color" content="#f6f7f9" media="(prefers-color-scheme: light)">
-  <meta name="theme-color" content="#111418" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#eef1f5" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0e1319" media="(prefers-color-scheme: dark)">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header class="top">
+  <header class="masthead">
     <h1 id="title">Briefing</h1>
-    <p id="subtitle" class="muted"></p>
+    <p id="subtitle" class="sub"></p>
+    <div id="mix" class="mix" hidden></div>
   </header>
 
   <main id="view" aria-live="polite"></main>
 
   <nav class="tabs" aria-label="Hauptnavigation">
-    <button type="button" data-view="today" class="active">Heute</button>
-    <button type="button" data-view="archive">Archiv</button>
-    <button type="button" data-view="settings">Einstellungen</button>
+    <button type="button" data-view="today" class="active" aria-current="page">
+      <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 18h18"/><path d="M7 18a5 5 0 0 1 10 0"/><path d="M12 6v3"/><path d="M4.6 10.6l2 1.6"/><path d="M19.4 10.6l-2 1.6"/></svg>
+      <span>Heute</span>
+    </button>
+    <button type="button" data-view="archive">
+      <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15" rx="2.5"/><path d="M3.5 10h17"/><path d="M8 3v4"/><path d="M16 3v4"/></svg>
+      <span>Archiv</span>
+    </button>
+    <button type="button" data-view="settings">
+      <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h9"/><path d="M17 7h3"/><circle cx="15" cy="7" r="2"/><path d="M4 17h3"/><path d="M11 17h9"/><circle cx="9" cy="17" r="2"/></svg>
+      <span>Einstellungen</span>
+    </button>
   </nav>
 
   <script src="app.js" defer></script>

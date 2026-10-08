@@ -1,5 +1,5 @@
 // Service Worker: Offline-Cache (network-first) und Push-Anzeige.
-const CACHE = 'briefing-v1';
+const CACHE = 'briefing-v2';
 const SHELL = [
   './',
   'index.html',
