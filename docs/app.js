@@ -37,19 +37,19 @@
   }
 
   const SVG_NS = 'http://www.w3.org/2000/svg';
-  function externalIcon() {
+  function chevronIcon() {
     const svg = document.createElementNS(SVG_NS, 'svg');
     svg.setAttribute('viewBox', '0 0 24 24');
-    svg.setAttribute('width', '12');
-    svg.setAttribute('height', '12');
+    svg.setAttribute('width', '14');
+    svg.setAttribute('height', '14');
     svg.setAttribute('fill', 'none');
     svg.setAttribute('stroke', 'currentColor');
-    svg.setAttribute('stroke-width', '2.4');
+    svg.setAttribute('stroke-width', '2.6');
     svg.setAttribute('stroke-linecap', 'round');
     svg.setAttribute('stroke-linejoin', 'round');
     svg.setAttribute('aria-hidden', 'true');
     const p = document.createElementNS(SVG_NS, 'path');
-    p.setAttribute('d', 'M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5');
+    p.setAttribute('d', 'M9 5l7 7-7 7');
     svg.append(p);
     return svg;
   }
@@ -164,8 +164,8 @@
       h(
         'p',
         { class: 'story-meta' },
-        h('strong', {}, item.source, href ? externalIcon() : null),
-        item.alsoReportedBy && item.alsoReportedBy.length ? h('span', {}, `auch bei ${item.alsoReportedBy.join(', ')}`) : null
+        h('span', { class: 'src' }, h('strong', {}, item.source), item.alsoReportedBy && item.alsoReportedBy.length ? ` und ${item.alsoReportedBy.join(', ')}` : null),
+        href ? h('span', { class: 'more' }, 'Zur Quelle', chevronIcon()) : null
       )
     );
   }
@@ -186,7 +186,7 @@
     await loadConfig();
     if (demo) {
       setHeader(dayFmt(SAMPLE.date, { weekday: 'long', day: 'numeric', month: 'long' }), ['Vorschau mit Beispieldaten'], SAMPLE.items.map((i) => i.category));
-      view.append(h('div', { class: 'notice' }, SAMPLE.notes.map((n) => h('p', {}, n))), h('ol', { class: 'sheet stories' }, SAMPLE.items.map((i, n) => storyItem(i, n === 0))));
+      view.append(h('div', { class: 'notice' }, SAMPLE.notes.map((n) => h('p', {}, n))), h('ol', { class: 'stories' }, SAMPLE.items.map((i, n) => storyItem(i, n === 0))));
       return;
     }
     const index = await loadIndex();
@@ -226,7 +226,7 @@
       );
     }
     if (b.notes && b.notes.length) view.append(h('div', { class: 'notice' }, b.notes.map((t) => h('p', {}, t))));
-    view.append(h('ol', { class: 'sheet stories' }, b.items.map((i, k) => storyItem(i, k === 0))));
+    view.append(h('ol', { class: 'stories' }, b.items.map((i, k) => storyItem(i, k === 0))));
     view.append(
       h('p', { class: 'foot' }, b.mode === 'regeln' ? 'Die Auswahl folgt festen Regeln. Die Texte stammen aus den Feeds der Quellen, eine KI ist nicht beteiligt.' : `Modus: ${b.mode}.`)
     );
