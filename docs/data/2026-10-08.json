@@ -1,20 +1,70 @@
 {
   "date": "2026-10-08",
-  "generatedAt": "2026-10-08T19:41:39.678Z",
+  "generatedAt": "2026-10-08T20:04:08.026Z",
   "mode": "regeln",
   "items": [
     {
       "rank": 1,
-      "title": "ChatGPT for Teens wird kaum exzessiv genutzt, aber Sicherheitsbedenken wachsen",
-      "summary": "Jugendliche nutzen den KI-Chatbot weniger als soziale Netze, sagt OpenAI. Doch eine unabhängige Prüfung will mangelnde Sicherheitsschranken gefunden haben.",
-      "url": "https://www.heise.de/news/ChatGPT-for-Teens-wird-kaum-exzessiv-genutzt-aber-Sicherheitsbedenken-wachsen-11480098.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "heise online",
-      "category": "tech",
-      "publishedAt": "2026-10-08T03:03:00.000Z",
+      "title": "AfD-Landtagspräsident: BMW zieht Dienstwagen von AfD-Landtagspräsident zurück",
+      "summary": "Der neue Magdeburger Landtagspräsident Tobias Rausch muss bald ohne Dienst-BMW auskommen. Der Konzern stornierte nach Rauschs Wahl sein Vertragsangebot.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/tobias-rausch-afd-landtagspraesident-dienstwagen-leasingvertrag-zurueckgezogen",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-08T17:58:22.000Z",
       "alsoReportedBy": []
     },
     {
       "rank": 2,
+      "title": "HEuer gegen Schulze: In der CDU in Sachsen-Anhalt tobt ein Machtkampf",
+      "summary": "Nach der Wahl des AfD-Landtagspräsidenten eskaliert der Streit in der CDU-Fraktion. Es gibt Gerüchte über Überläufer – und erste Abgeordnete fordern offenbar Schulzes Rücktritt.",
+      "url": "https://www.faz.net/aktuell/politik/inland/stimmen-fuer-die-afd-in-der-cdu-sachsen-anhalt-tobt-ein-machtkampf-accg-201298974.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-08T12:05:46.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "Mögliche CDU-Stimmen für AfD: Radtke fordert Parteiausschluss für Abweichler",
+      "summary": "Haben bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt auch CDU-Abgeordnete für den AfD-Kandidaten Rausch gestimmt? Der Chef des CDU-Arbeitnehmerflügels verlangt in diesem Fall harte Konsequenzen.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktionen-wahl-sachsen-anhalt-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-08T10:51:26.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Nach Wahl in Berlin: Linke, Grüne und SPD vor Einigung auf Sondierungsgespräche",
+      "summary": "Zweieinhalb Wochen nach der Wahl zum Berliner Abgeordnetenhaus stehen laut Medienberichten Linke, Grüne und SPD vor einer Einigung auf Sondierungsgespräche. Auch über den Umgang mit Antisemitismus habe man sich verständigt.",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-gruene--spd-sondierungen-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-08T16:31:54.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Koalitionsausschuss: Debatte um die Pflegereform geht weiter",
+      "summary": "Trotz schlechter Umfragewerte: Die Bundesregierung hält an ihrem Reformkurs fest. Sie ist besorgt über die Ereignisse in Sachsen-Anhalt rund um die AfD.",
+      "url": "https://www.dw.com/de/koalitionsausschuss-debatte-um-die-pflegereform-geht-weiter/a-79590405?maca=de-rss-de-all-1119-rdf",
+      "source": "Deutsche Welle",
+      "category": "welt",
+      "publishedAt": "2026-10-08T11:39:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Regierungsbildung in Berlin: Linke, Grüne und SPD in Berlin drohen Antisemiten mit Parteiausschluss",
+      "summary": "Vor ihren Sondierungen haben Linke, Grüne und SPD Bedingungen für ihre Zusammenarbeit präsentiert. Es geht um Clankontakte, Antisemitismus und das Existenzrecht Israels.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/organisierte-kriminalitaet-berlin-clans-ferat-kocak-linke-gxe",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-08T16:19:25.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
       "title": "40 Milliarden Dollar für Nvidia-Chips: SpaceX soll riesige Finanzierung planen",
       "summary": "Elon Musks Raumfahrtunternehmen will offenbar Milliarden aufnehmen, um den Kauf von Nvidia-Chips zu finanzieren. Gleichzeitig wächst bei Anlegern die Skepsis.",
       "url": "https://www.heise.de/news/40-Milliarden-Dollar-fuer-Nvidia-Chips-SpaceX-soll-riesige-Finanzierung-planen-11481138.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -24,7 +74,17 @@
       "alsoReportedBy": []
     },
     {
-      "rank": 3,
+      "rank": 8,
+      "title": "„Stabilicum“: Das sieht Melonis Wahlrechtsreform vor",
+      "summary": "Italiens Ministerpräsidentin bekommt ihre Wahlrechtsreform. Die Opposition will das neue Gesetz vor Gericht anfechten; auch im Regierungslager regt sich Unmut.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/giorgia-melonis-wahlrechtsreform-was-das-stabilicum-vorsieht-201299471.html",
+      "source": "FAZ",
+      "category": "welt",
+      "publishedAt": "2026-10-08T14:10:40.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
       "title": "„Haben nicht darum gebeten“: Scharfe Kritik an OpenAI aus der Mathematik",
       "summary": "Nachdem OpenAI KI-generierte Lösungen zu hunderten Problemen aus der Mathematik veröffentlicht hat, übt eine junge Organisation heftige Kritik an dem Vorgehen.",
       "url": "https://www.heise.de/news/KI-generierte-Mathematikloesungen-Scharfe-Kritik-am-Vorgehen-von-OpenAI-11480767.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -34,23 +94,13 @@
       "alsoReportedBy": []
     },
     {
-      "rank": 4,
-      "title": "Marktbericht: DAX fällt unter 25.000 Punkte",
-      "summary": "Abseits des nach wie vor intakten KI-Booms herrscht am Aktienmarkt Tristesse. Hohe Zinsen, hohe Ölpreise und Sorgen um Frankreich lähmen derzeit den Aktienmarkt.",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-oel-100.html",
-      "source": "tagesschau.de",
-      "category": "de",
-      "publishedAt": "2026-10-08T16:43:29.000Z",
-      "alsoReportedBy": []
-    },
-    {
-      "rank": 5,
-      "title": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
-      "summary": "Bei russischen Angriffen auf zwei Busse in der Ostukraine sind mindestens 30 Menschen getötet worden, weitere 18 wurden verletzt. Nach Angriffen auf Kiew und andere Städte musste der Strom dort abgeschaltet werden.",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html",
-      "source": "tagesschau.de",
-      "category": "welt",
-      "publishedAt": "2026-10-08T19:16:45.000Z",
+      "rank": 10,
+      "title": "Nach der Insolvenz: Haushaltsbatterien-Sparte von Varta wird selbstständig",
+      "summary": "Nach der Abspaltung setzt Varta Consumer Batteries auf ein stabiles Geschäft und kündigt Investitionen in den Standort Dischingen an.",
+      "url": "https://www.heise.de/news/Nach-Insolvenz-der-AG-Varta-Consumer-Batteries-macht-eigenstaendig-weiter-11481038.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-08T13:01:00.000Z",
       "alsoReportedBy": []
     }
   ],
