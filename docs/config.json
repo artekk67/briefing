@@ -1,0 +1,69 @@
+{
+  "time": "07:00",
+  "windowHours": 4,
+  "maxItems": 5,
+  "maxAgeHours": 36,
+  "dedupeThreshold": 0.5,
+  "summarizer": "regeln",
+  "summaryMaxChars": 260,
+  "vapidPublicKey": "",
+  "pagesUrl": "",
+  "slots": { "tech": 2, "de": 1, "welt": 1 },
+  "topics": [
+    {
+      "id": "ki",
+      "label": "Künstliche Intelligenz",
+      "enabled": true,
+      "weight": 10,
+      "keywords": ["KI", "künstliche Intelligenz", "OpenAI", "Anthropic", "ChatGPT", "Gemini", "Sprachmodell", "Machine Learning", "maschinelles Lernen", "neuronale", "Nvidia", "Chatbot", "Deepfake", "generative"]
+    },
+    {
+      "id": "technik",
+      "label": "Technik & Digitales",
+      "enabled": true,
+      "weight": 5,
+      "keywords": ["Cybersicherheit", "Sicherheitslücke", "Cyberangriff", "Hacker", "Chip", "Halbleiter", "Rechenzentrum", "Quanten", "Robotik", "Satellit", "Cloud", "Datenschutz", "Software", "Smartphone"]
+    },
+    {
+      "id": "politik",
+      "label": "Politik & Gesellschaft",
+      "enabled": true,
+      "weight": 4,
+      "keywords": ["Bundesregierung", "Bundestag", "Bundeskanzler", "Bundesrat", "EU", "Ukraine", "Nahost", "Sanktionen", "NATO", "Wahl", "Regierung", "Gipfel"]
+    },
+    {
+      "id": "wirtschaft",
+      "label": "Wirtschaft",
+      "enabled": true,
+      "weight": 3,
+      "keywords": ["Inflation", "Zinsen", "EZB", "Konjunktur", "Börse", "Dax", "Arbeitsmarkt", "Haushalt", "Energie"]
+    }
+  ],
+  "feeds": [
+    {
+      "id": "tagesschau",
+      "name": "tagesschau.de",
+      "url": "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml",
+      "fallbackUrls": ["https://www.tagesschau.de/index~rss2.xml"],
+      "category": "de",
+      "pathRules": [
+        { "contains": "/inland/", "category": "de" },
+        { "contains": "/ausland/", "category": "welt" }
+      ]
+    },
+    {
+      "id": "heise",
+      "name": "heise online",
+      "url": "https://www.heise.de/rss/heise-atom.xml",
+      "fallbackUrls": ["https://www.heise.de/newsticker/heise-atom.xml"],
+      "category": "tech"
+    },
+    {
+      "id": "dw",
+      "name": "Deutsche Welle",
+      "url": "https://rss.dw.com/rdf/rss-de-all",
+      "fallbackUrls": ["https://rss.dw.com/xml/rss-de-top"],
+      "category": "welt"
+    }
+  ]
+}
