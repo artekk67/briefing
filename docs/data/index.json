@@ -1,4 +1,10 @@
 {
-  "briefings": [],
-  "updatedAt": null
+  "briefings": [
+    {
+      "date": "2026-10-08",
+      "title": "ChatGPT for Teens wird kaum exzessiv genutzt, aber Sicherheitsbedenken wachsen",
+      "count": 5
+    }
+  ],
+  "updatedAt": "2026-10-08T19:26:49.604Z"
 }

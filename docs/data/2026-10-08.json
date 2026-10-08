@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T19:26:49.604Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "ChatGPT for Teens wird kaum exzessiv genutzt, aber Sicherheitsbedenken wachsen",
+      "summary": "Jugendliche nutzen den KI-Chatbot weniger als soziale Netze, sagt OpenAI. Doch eine unabhängige Prüfung will mangelnde Sicherheitsschranken gefunden haben.",
+      "url": "https://www.heise.de/news/ChatGPT-for-Teens-wird-kaum-exzessiv-genutzt-aber-Sicherheitsbedenken-wachsen-11480098.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-08T03:03:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "40 Milliarden Dollar für Nvidia-Chips: SpaceX soll riesige Finanzierung planen",
+      "summary": "Elon Musks Raumfahrtunternehmen will offenbar Milliarden aufnehmen, um den Kauf von Nvidia-Chips zu finanzieren. Gleichzeitig wächst bei Anlegern die Skepsis.",
+      "url": "https://www.heise.de/news/40-Milliarden-Dollar-fuer-Nvidia-Chips-SpaceX-soll-riesige-Finanzierung-planen-11481138.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-08T13:52:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "„Haben nicht darum gebeten“: Scharfe Kritik an OpenAI aus der Mathematik",
+      "summary": "Nachdem OpenAI KI-generierte Lösungen zu hunderten Problemen aus der Mathematik veröffentlicht hat, übt eine junge Organisation heftige Kritik an dem Vorgehen.",
+      "url": "https://www.heise.de/news/KI-generierte-Mathematikloesungen-Scharfe-Kritik-am-Vorgehen-von-OpenAI-11480767.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-08T12:06:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Marktbericht: DAX fällt unter 25.000 Punkte",
+      "summary": "Abseits des nach wie vor intakten KI-Booms herrscht am Aktienmarkt Tristesse. Hohe Zinsen, hohe Ölpreise und Sorgen um Frankreich lähmen derzeit den Aktienmarkt.",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-oel-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-08T16:43:29.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
+      "summary": "Bei russischen Angriffen auf zwei Busse in der Ostukraine sind mindestens 30 Menschen getötet worden, weitere 18 wurden verletzt. Nach Angriffen auf Kiew und andere Städte musste der Strom dort abgeschaltet werden.",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-10-08T19:16:45.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
