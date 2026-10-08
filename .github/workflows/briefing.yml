@@ -1,0 +1,75 @@
+name: Tägliches Briefing
+
+on:
+  schedule:
+    # GitHub-Cron läuft in UTC. Alle 30 Minuten zwischen 04:00 und 09:30 UTC;
+    # scripts/should-run.js prüft die Berliner Uhrzeit (Sommer-/Winterzeit) und erzeugt
+    # genau ein Briefing pro Tag zur Uhrzeit aus docs/config.json.
+    - cron: '0,30 4-9 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Briefing jetzt erzeugen (Uhrzeit ignorieren, vorhandenes überschreiben)'
+        type: boolean
+        default: true
+      push:
+        description: 'Push-Nachricht senden'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: briefing
+  cancel-in-progress: false
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Prüfen, ob jetzt ein Briefing fällig ist
+        id: due
+        run: node scripts/should-run.js
+        env:
+          FORCE: ${{ inputs.force }}
+
+      - name: Abhängigkeiten installieren
+        if: steps.due.outputs.run == 'true'
+        run: npm install --omit=dev --no-audit --no-fund
+
+      - name: Briefing erzeugen
+        if: steps.due.outputs.run == 'true'
+        run: node scripts/build-briefing.js
+
+      - name: Briefing im Repository speichern
+        if: steps.due.outputs.run == 'true'
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "briefing-bot@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen zu speichern."
+          else
+            git commit -m "Briefing ${{ steps.due.outputs.date }}"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      - name: Push-Nachricht senden
+        if: steps.due.outputs.run == 'true' && (github.event_name == 'schedule' || inputs.push)
+        run: |
+          export PAGES_URL="https://${GITHUB_REPOSITORY_OWNER,,}.github.io/${GITHUB_REPOSITORY#*/}/"
+          node scripts/send-push.js
+        env:
+          VAPID_PUBLIC_KEY: ${{ secrets.VAPID_PUBLIC_KEY }}
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          VAPID_SUBJECT: ${{ secrets.VAPID_SUBJECT }}
+          PUSH_SUBSCRIPTIONS: ${{ secrets.PUSH_SUBSCRIPTIONS }}
