@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-10-10",
+      "title": "Deutschland liveblog: CDA-Chef Radtke warnt vor Zerbrechen der Koalition: „Das Zündeln macht mich fassungslos“",
+      "count": 10
+    },
+    {
       "date": "2026-10-09",
       "title": "„Eine Schande“: Massive Kritik am Schröders Geburtstagsbesuch bei Putin",
       "count": 10
@@ -11,5 +16,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-10-09T05:09:58.634Z"
+  "updatedAt": "2026-10-10T05:08:24.372Z"
 }

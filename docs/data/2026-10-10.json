@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T05:08:24.372Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Deutschland liveblog: CDA-Chef Radtke warnt vor Zerbrechen der Koalition: „Das Zündeln macht mich fassungslos“",
+      "summary": "Özdemir zur Bundesregierung: Es ist „fünf vor zwölf“ +++ Bericht wirft Fragen zum Abstimmungsverhalten bei Wahl des Landtagspräsidenten auf: Drei CDU-Abgeordnete sollen laut „taz“ gelogen haben +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-cda-chef-radtke-warnt-vor-zerbrechen-der-koalition-das-zuendeln-macht-mich-fassungslos-faz-110093143.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-10T02:41:56.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "Aktuelle Stunde: Streit im Bundestag nach Wahl von AfD-Landtagspräsident",
+      "summary": "Die Linksfraktion hatte im Bundestag eine Aktuelle Stunde beantragt. Um den Umgang mit der AfD in Sachsen-Anhalt sollte es gehen.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-rechtsextremisten-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-09T16:59:58.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "EU fordert Auskunft von OpenAI und Anthropic nach KI-Angriffen",
+      "summary": "Nach Cyberangriffen durch KI-Systeme hat die EU-Kommission Auskünfte von OpenAI und Anthropic verlangt. Auch chinesische Firmen sind betroffen.",
+      "url": "https://www.heise.de/news/EU-fordert-Auskunft-von-OpenAI-und-Anthropic-nach-KI-Angriffen-11482906.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-09T16:37:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Sachsen-Anhalt: Die Selbstzerstörung der CDU",
+      "summary": "Nach der Wahl eines AfD-Mannes zum Landtagspräsidenten in Magdeburg richten sich alle Augen auf die sachsen-anhaltische CDU. Der ist vieles zuzutrauen.",
+      "url": "https://www.faz.net/aktuell/politik/inland/die-selbstzerstoerung-der-cdu-in-sachsen-anhalt-201293751.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-09T17:56:08.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Umgang mit der AfD: Stellvertretender CSU-Chef erklärt Brandmauer für gescheitert",
+      "summary": "Manfred Weber bezeichnet die strikte Abgrenzung zur AfD als Riesenbelastung für die Union. In Thüringen und Sachsen müsse die CDU »dauernd mit linken Parteien abstimmen«.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/manfred-weber-csu-afd-brandmauer",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-09T23:47:56.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Mecklenburg-Vorpommern: SPD und Linke stimmen Koalitionsverhandlungen zu",
+      "summary": "Die erste rot-rot-grüne Landesregierung in Mecklenburg-Vorpommern rückt näher. Die Grünen wollen am Samstag über den Start von Koalitionsverhandlungen entscheiden.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/koalition-mecklenburg-vorpommern-spd-gruene-linke-rot-rot-gruen",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-09T22:44:13.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "Trump-Regierung: USA verhängen Sanktionen gegen Internationalen Strafgerichtshof",
+      "summary": "Am Tag der Vergabe des Friedensnobelpreises an die Ex-Richterin Pillay geht die US-Regierung gegen den Den Haager Gerichtshof vor. Sie verhängte umfassende Sanktionen.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/usa-verhaengen-sanktionen-gegen-internationalen-strafgerichtshof",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-09T16:26:26.000Z",
+      "alsoReportedBy": [
+        "tagesschau.de"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Anthropic scannt Open-Source-Projekte kostenlos auf Sicherheitslücken",
+      "summary": "Anthropic bietet Open-Source-Projekten kostenlose KI-Sicherheitsscans an. In Tests waren angeblich die meisten hier gefundenen Schwachstellen real.",
+      "url": "https://www.heise.de/news/Anthropic-scannt-Open-Source-Projekte-kostenlos-auf-Sicherheitsluecken-11482774.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-09T15:59:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "„Eine Schande“: Massive Kritik an Schröders Geburtstagsbesuch bei Putin",
+      "summary": "Der frühere Bundeskanzler nahm auf Putins Einladung an den Feierlichkeiten zu dessen 74. Geburtstag teil.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/besuch-bei-putins-geburtstagsfeier-massive-kritik-an-gerhard-schroeder-201301366.html",
+      "source": "FAZ",
+      "category": "welt",
+      "publishedAt": "2026-10-09T06:57:52.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Kann KI wirklich programmieren? Unsere Experimente mit Vibe Coding | c’t uplink",
+      "summary": "Programmieren mit KI-Unterstützung: Schreibt man wirklich mehr und besseren Code? Was genau macht die KI überhaupt?",
+      "url": "https://www.heise.de/news/Kann-KI-wirklich-programmieren-Unsere-Experimente-mit-Vibe-Coding-c-t-uplink-11482274.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-10T04:30:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
