@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-10-11",
+      "title": "CDU diskutiert über Umgang mit der AfD",
+      "count": 10
+    },
+    {
       "date": "2026-10-10",
       "title": "Deutschland liveblog: CDA-Chef Radtke warnt vor Zerbrechen der Koalition: „Das Zündeln macht mich fassungslos“",
       "count": 10
@@ -16,5 +21,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-10-10T05:08:24.372Z"
+  "updatedAt": "2026-10-11T05:08:51.640Z"
 }

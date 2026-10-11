@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T05:08:51.640Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "CDU diskutiert über Umgang mit der AfD",
+      "summary": "Zwei Tage lang will das CDU-Präsidium in Klausur gehen, um über Konsequenzen aus den jüngsten Wahlschlappen zu beraten. Dabei rückt eine Frage immer mehr in den Mittelpunkt: Soll der Umgang mit der AfD neu definiert werden?",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-klausur-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-10T15:34:39.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "Europäische Union: Merz lehnt neuen Entwurf für den EU-Haushalt ab",
+      "summary": "Die Bundesregierung kritisiert den Vorschlag Irlands für den nächsten mehrjährigen EU-Haushalt. Deutschland als größter Nettozahler verlangt weitaus tiefere Einsparungen.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/merz-eu-haushalt-einsparung",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-10T14:54:06.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "Vertrauen in deutsches Bundesverfassungsgericht schwindet",
+      "summary": "75 Jahre nach seiner Gründung verliert Deutschlands oberster Gerichtshof in der Bevölkerung an Vertrauen. Könnten Reformen bei der Nominierung von Kandidaten helfen?",
+      "url": "https://www.dw.com/de/vertrauen-in-deutsches-bundesverfassungsgericht-schwindet/a-79620793?maca=de-rss-de-all-1119-rdf",
+      "source": "Deutsche Welle",
+      "category": "welt",
+      "publishedAt": "2026-10-11T04:49:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "EU-Haushaltszoff: Irland sieht (etwas) Sparpotenzial",
+      "summary": "Im Ringen um den Haushalt der Europäischen Union präsentiert die irische Ratspräsidentschaft einen Kompromissvorschlag. Dieser ist für Bundeskanzler Friedrich Merz jedoch \"keine Grundlage für eine Einigung\".",
+      "url": "https://www.dw.com/de/eu-haushaltszoff-irland-sieht-etwas-sparpotenzial/a-79628689?maca=de-rss-de-all-1119-rdf",
+      "source": "Deutsche Welle",
+      "category": "welt",
+      "publishedAt": "2026-10-10T13:52:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Klausur des CDU-Präsidiums: Kanzler Merz vor schwieriger Aufgabe",
+      "summary": "In der CDU ist die Stimmung nach den miserablen Ergebnissen bei den jüngsten Landtagswahlen und sinkenden Umfragewerten schlecht. Heute und morgen kommt das Parteipräsidium zusammen.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidiumssitzung-klausur-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-11T01:27:57.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Kulturstaatsminister: Weimer warnt SPD vor Koalition mit Linkspartei in Berlin",
+      "summary": "Der Kulturstaatsminister fordert die SPD auf, nicht mit der Linken in Berlin zu koalieren. Deren Generalsekretär wirft Weimer vor, den Ernst der Lage nicht zu verstehen.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/weimer-berlin-linke-rot-gruen-rot-gxe",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-10T15:50:33.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "Seehofer sieht \"Glaubwürdigkeitsverlust\" bei Merz",
+      "summary": "Vor der CDU-Klausur hat der ehemalige CSU-Chef Seehofer massive Kritik an Kanzler Merz geübt. Gebrochene Wahlversprechen hätten seiner Glaubwürdigkeit geschadet.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/seehofer-merz-klausur-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-11T03:50:03.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "KI von Anthropic reichte Fake-Hinweis auf Polizei-Seite ein",
+      "summary": "Seit Wochen sorgen vor allem Eskapaden der KI von OpenAI für Schlagzeilen. Doch auch Software von Anthropic reichte echte Formulare auf Behörden-Websites ein.",
+      "url": "https://www.heise.de/news/KI-von-Anthropic-reichte-Fake-Hinweis-auf-Polizei-Seite-ein-11483284.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-10T14:04:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "Open-Source-Office OpenDesk: Zendis bringt agentische KI und Air-Gap-Modus",
+      "summary": "Das Zentrum für digitale Souveränität zeigt auf der Smart Country Convention neue Funktionen für die Open-Source-Suite OpenDesk mit KI und Offline-Betrieb.",
+      "url": "https://www.heise.de/news/Open-Source-Office-OpenDesk-Zendis-bringt-agentische-KI-und-Air-Gap-Modus-11483419.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-10T16:21:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Japan reagiert auf Welle von Cyberangriffen",
+      "summary": "Etliche wichtige Unternehmen in Japan haben Cyberangriffe gemeldet. Japans Digitalminister spricht von einem Notstand.",
+      "url": "https://www.heise.de/news/Japan-reagiert-auf-Welle-von-Cyberangriffen-11483276.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-10T13:58:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
