@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-10-13",
+      "title": "Deutschland liveblog: CDU-Überlegung: Bei Wahl Ulrich Siegmunds Plenarsaal verlassen",
+      "count": 10
+    },
+    {
       "date": "2026-10-12",
       "title": "Bundesregierung: CSU-Chef Markus Söder will Kanzler Friedrich Merz weiter stärken",
       "count": 10
@@ -26,5 +31,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-10-12T05:11:32.511Z"
+  "updatedAt": "2026-10-13T05:11:21.941Z"
 }
