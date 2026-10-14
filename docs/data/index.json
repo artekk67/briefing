@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-10-14",
+      "title": "AfD: So stellt sich die AfD eine neue Russlandpolitik vor",
+      "count": 10
+    },
+    {
       "date": "2026-10-13",
       "title": "Deutschland liveblog: CDU-Überlegung: Bei Wahl Ulrich Siegmunds Plenarsaal verlassen",
       "count": 10
@@ -31,5 +36,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-10-13T05:11:21.941Z"
+  "updatedAt": "2026-10-14T05:27:01.036Z"
 }

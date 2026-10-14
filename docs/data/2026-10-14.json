@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T05:27:01.036Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "AfD: So stellt sich die AfD eine neue Russlandpolitik vor",
+      "summary": "AfD und BSW laden zu einer Sondersitzung im Magdeburger Landtag ein. Thema: der Krieg in der Ukraine.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/afd-russland-politik-ukraine-krieg",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-14T03:27:34.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "Rechtsruck in der CDU: Der crazy CDU-Impuls, die innere AfD in sich zu befreien",
+      "summary": "Brandmauer weg, Minderheitsregierung her: Dass Unionspolitiker an solchen Zielen arbeiten, ist verrückt. Denn was käme dann?",
+      "url": "https://www.zeit.de/politik/2026-10/rechtsruck-cdu-afd-brandmauer-unionspolitiker-sachsen-anhalt",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-14T05:16:20.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "Grüne und SPD in Berlin unterbrechen Sondierungen mit Linkspartei",
+      "summary": "In Berlin hat die Linkspartei die wegen ihrer Israel-Kritik umstrittene Abgeordnete Emde in die Fraktion aufgenommen. SPD und Grüne unterbrechen deshalb die Sondierungsgespräche für eine mögliche rot-rot-grüne Koalition.",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-sondierungen-unterbrochen-102.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-13T17:49:07.000Z",
+      "alsoReportedBy": [
+        "DIE ZEIT"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Deutschland liveblog: Grünen-Chefin Brantner befürwortet Sondierungsstopp mit Linken in Berlin",
+      "summary": "Brandtner: Linkspartei hat sich nicht an Abmachung gehalten +++ Koalition legt Streit um Zuckersteuer bei +++ Hessens Ministerpräsident bezeichnet Zuckersteuer als „Teuer-Steuer“ +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-gruenen-chefin-brandtner-begruesst-stopp-von-sondierungen-mit-linkspartei-in-berlin-faz-110093143.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-14T04:26:44.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Bundesarbeitsminister Alexander Schweitzer: Steinmeier verbindet Schweitzers Ernennung mit Appell an die Koalition",
+      "summary": "Der Bundespräsident hat den SPD-Politiker Alexander Schweitzer zum neuen Bundesarbeitsminister ernannt. Dabei richtete Steinmeier mahnende Worte an die Bundesregierung.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/baerbel-bas-ruecktritt-alexander-schweitzer-arbeitsminister-spd",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-13T17:22:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Anthropic warnt: KI-Replikation auf IoT-Geräten rückt näher",
+      "summary": "Anthropic warnt: Kleinere KI-Modelle könnten sich bald zum Beispiel auf Haushaltsgeräten selbst vervielfältigen. Kontrolle wäre dann kaum noch möglich.",
+      "url": "https://www.heise.de/news/Anthropic-KI-koennte-sich-bald-auf-Haushaltsgeraeten-selbst-replizieren-11485683.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-13T15:10:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "Selenskyj beklagt fehlende Warnung vor russischen Angriffen",
+      "summary": "Eine russische Rakete hat nach Angaben des ukrainischen Präsidenten Selenskyj ein Heizkraftwerk in Kiew getroffen. Wie er mitteilte, hatten die westlichen Verbündeten die Ukraine zuvor nicht vor dem Angriff gewarnt.",
+      "url": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-10-14T05:26:14.000Z",
+      "alsoReportedBy": [
+        "DIE ZEIT"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Sachsen-Anhalt: Die neue CDU-Strategie: Den Saal verlassen",
+      "summary": "In der Wahl des Landtagspräsidenten waren die CDU-Abgeordneten nicht geschlossen. Der Wahl Ulrich Siegmunds wollen sie deshalb fernbleiben.",
+      "url": "https://www.faz.net/aktuell/politik/inland/cdu-in-sachsen-anhalt-will-abstimmung-ueber-ulrich-siegmund-fernbleiben-201313134.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-13T14:02:49.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "Wanze in Konferenzraum versteckt: OpenAI-Angestellter festgenommen",
+      "summary": "In einem Konferenzraum von OpenAI wurde ein verstecktes Aufzeichnungsgerät entdeckt. Der Mann, der es angebracht haben soll, wurde festgenommen – und gefeuert.",
+      "url": "https://www.heise.de/news/Meetings-heimlich-aufgenommen-OpenAI-Angestellter-festgenommen-und-gefeuert-11487158.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-14T04:58:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Mittwoch: KI-Insolvenz nach Suizid-Klagen, KI-Vereinfachung der App-Entwicklung",
+      "summary": "Character.ai vor dem Aus + Android-Apps per Google-KI + Ablösung der GeForce RTX 5090 + Sicherheitswarnung für vernetzte Anlagen + DNA-Allianz der Netzbetreiber",
+      "url": "https://www.heise.de/news/Mittwoch-KI-Insolvenz-nach-Suizid-Klagen-KI-Vereinfachung-der-App-Entwicklung-11487148.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-14T04:15:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
