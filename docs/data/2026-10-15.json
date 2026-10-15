@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T05:23:55.324Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Können sich KI-Systeme auf Haushaltsgeräten schon bald selbst replizieren?",
+      "summary": "Anthropic-Forscher warnen: KI-Würmer könnten demnächst vernetzte Haushaltsgeräte angreifen und sich von dort aus selbst verbreiten. Wie verwundbar solche Systeme sind, zeigen Cyberangriffe auf französische Supermärkte.",
+      "url": "https://www.dw.com/de/können-sich-ki-systeme-auf-haushaltsgeräten-schon-bald-selbst-replizieren/a-79658420?maca=de-rss-de-all-1119-rdf",
+      "source": "Deutsche Welle",
+      "category": "welt",
+      "publishedAt": "2026-10-15T04:10:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "EU-Haushalt: Und wer zahlt am Ende die Rechnung?",
+      "summary": "Die EU-Regierungschefs streiten über Geld, große Ideen und handfeste Interessen. Wer will was?",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/eu-haushalt-finanzen-friedrich-merz-irland-kuerzungen",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-15T03:24:10.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen",
+      "summary": "Auf dem heutigen EU-Gipfel geht es um bis zu zwei Billionen Euro. Deutschland ist größter Nettozahler - nun will Kanzler Merz beim Haushalt bis 2034 kürzen.",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-10-15T03:15:14.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Abstimmungen mit der AfD: Die »Höllenwoche« – und was die Union daraus lernen kann",
+      "summary": "Was passiert, wenn sich die Union nach rechts außen öffnet? Das hat eine Studie anhand von Merz’ Abstimmung mit der AfD 2025 untersucht.",
+      "url": "https://www.zeit.de/politik/2026-10/abstimmungen-afd-sachsen-anhalt-friedrich-merz-nachrichtenpodcast",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-15T04:12:16.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Landtag in Magdeburg: Die CDU muss sichtbar gegen die AfD stimmen",
+      "summary": "Die CDU will den Saal verlassen, wenn über den Regierungschef abgestimmt wird: ein Eingeständnis der Schwäche. Kann nicht einmal die Putin-Nähe der AfD die Partei einen?",
+      "url": "https://www.faz.net/aktuell/politik/inland/in-magdeburg-muss-die-cdu-sichtbar-gegen-die-afd-stimmen-201316329.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-14T14:37:24.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "#heiseshow: KI-Klone, PC-Markt, Mathematiker vs. OpenAI",
+      "summary": "In der #heiseshow: KI-Klone machen etablierten Anbietern Konkurrenz, der PC-Markt bricht ein und Mathematiker wehren sich gegen KI-generierte Lösungen.",
+      "url": "https://www.heise.de/news/heiseshow-KI-Klone-PC-Markt-Mathematiker-vs-OpenAI-11488029.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-15T04:15:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "Regierungserklärung von Friedrich Merz: Er sagt nicht mehr »Reformen«",
+      "summary": "Seit den verlorenen Landtagswahlen müht sich Friedrich Merz, die Reformen neu zu verkaufen. Im Bundestag zeigt sich, woran es dem Kanzler dabei fehlt: Glaubwürdigkeit.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/regierungserklaerung-friedrich-merz-gerechtigkeit-cdu-afd-bundesregierung",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-14T18:06:08.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Regierungserklärung: Und dann verteidigt die SPD den Kanzler",
+      "summary": "Anstrengende Tage voller Vorwürfe liegen hinter Union und SPD. Während Merz’ Regierungserklärung scheint es, als wollten beide Seiten den heftigen Streit beenden.",
+      "url": "https://www.faz.net/aktuell/politik/inland/merz-regierungserklaerung-die-spd-verteidigt-den-kanzler-201316936.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-14T14:51:43.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "Social-Media-Verbot für Jugendliche: Regierung beschließt Regulierungseckpunkte",
+      "summary": "Neben EU-Vorgaben, einer Alters-Wallet und neuen Elternpflichten setzt die Bundesregierung auf Social-Media-Beschränkungen. Gegner warnen vor Überwachung.",
+      "url": "https://www.heise.de/news/Social-Media-Verbot-fuer-Jugendliche-Regierung-beschliesst-Regulierungseckpunkte-11488649.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-14T16:54:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "KI-Update: OpenAI-Spionage, Zerstörung, Zulassung, KI-Replikation, Muse Wonder",
+      "summary": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-OpenAI-Spionage-Zerstoerung-Zulassung-KI-Replikation-Muse-Wonder-11485297.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-14T13:00:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
