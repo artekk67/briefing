@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T05:28:55.202Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
+      "summary": "Die EU solle nicht so viel Geld ausgeben, findet Bundeskanzler Merz. Einige Länder sehen das genauso.",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-beratungen-haushalt-100.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-10-15T18:05:32.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "Rauchen in Deutschland: Bundestag stimmt für höhere Tabaksteuer",
+      "summary": "Das Rauchen in Deutschland wird teurer. Die Tabaksteuer soll bis 2030 schrittweise steigen.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/tabaksteuer-erhoehung-bundestag-zigarettenpreis-schwarzmarkt",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-15T21:33:19.000Z",
+      "alsoReportedBy": [
+        "FAZ"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Verbrenner-Aus in der EU: Deutschland und Frankreich wollen Verbrenner-Verbot lockern",
+      "summary": "Neuwagen sollen ab 2035 wohl doch nicht emissionsfrei sein müssen. Die Regierungen in Berlin und Paris einigten sich offenbar, dass das Verbrenner-Aus abgeschwächt wird.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/verbrenner-aus-eu-deutschland-frankreich-neuwagen-2035-co2-emissionen",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-15T18:52:19.000Z",
+      "alsoReportedBy": [
+        "tagesschau.de"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Auslegungssache 170: Wie Deepfakes das Recht herausfordern",
+      "summary": "Deepfakes beschäftigen die Gesetzgeber in Brüssel und Berlin. Im c't-Datenschutz-Podcast erklärt eine Expertin, warum die Regeln dazu kaum zusammenpassen.",
+      "url": "https://www.heise.de/hintergrund/Auslegungssache-170-Wie-Deepfakes-das-Recht-herausfordern-11486691.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-16T04:10:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Vorbild der AfD: Warum es Homeschooler nach Österreich zieht",
+      "summary": "Für die globalen Rechte ist „Heimunterricht“ ein Weg, Kinder vor dem Einfluss des Staates zu bewahren. Österreich gilt als Vorbild – auch in Sachsen-Anhalts AfD.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/vorbild-der-afd-warum-es-homeschooler-nach-oesterreich-zieht-accg-201316314.html",
+      "source": "FAZ",
+      "category": "welt",
+      "publishedAt": "2026-10-16T04:56:37.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
+      "summary": "Wie sicher ist der Umgang mit KI-Chatbots wie ChatGPT? Acht Bundesstaaten in den USA sehen erhebliche Risiken und haben deshalb Klagen gegen den Entwickler OpenAI eingereicht.",
+      "url": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-10-15T19:20:05.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
+      "summary": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag will heute über eine Maßnahme zur Alterssicherung entscheiden: die sogenannte Frühstartrente. Was sie beinhaltet und wer sie bekommt.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-16T03:00:25.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Psychotherapie-Reform: Bundestag beschließt Korrekturen",
+      "summary": "Mit einer neuen Vergütungsregel will die Regierung bei der Psychotherapie sparen. Kinder und Schwerkranke sind ausgenommen.",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/psychotherapie-reform-korrekturen-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-15T17:16:11.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "Starlink in der Ukraine: Anordnung zur Beschränkung kam wohl aus dem Weißen Haus",
+      "summary": "Dass die ukrainischen Streitkräfte im Abwehrkampf nicht mehr auf die volle Funktionsfähigkeit von Starlink setzen können, geht wohl auf das Weiße Haus zurück.",
+      "url": "https://www.heise.de/news/Starlink-in-der-Ukraine-Anordnung-zur-Beschraenkung-kam-wohl-aus-dem-Weissen-Haus-11490146.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-16T04:59:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "„Schwarzer Donnerstag“ wegen Sorgen über KI-Ausgaben: Asiens Börsen abgesackt",
+      "summary": "Die jüngste Kurskorrektur hat vor allem Südkorea getroffen, dort ist die Rede von einem „Schwarzen Donnerstag“. Samsung und SK Hynix trifft es besonders stark.",
+      "url": "https://www.heise.de/news/Schwarzer-Donnerstag-wegen-Sorgen-ueber-KI-Ausgaben-Asiens-Boersen-abgesackt-11489778.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-15T16:21:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}

@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-10-16",
+      "title": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
+      "count": 10
+    },
+    {
       "date": "2026-10-15",
       "title": "Können sich KI-Systeme auf Haushaltsgeräten schon bald selbst replizieren?",
       "count": 10
@@ -41,5 +46,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-10-15T05:23:55.324Z"
+  "updatedAt": "2026-10-16T05:28:55.202Z"
 }
