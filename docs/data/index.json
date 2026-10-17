@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-10-17",
+      "title": "KI: Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
+      "count": 10
+    },
+    {
       "date": "2026-10-16",
       "title": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
       "count": 10
@@ -46,5 +51,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-10-16T05:28:55.202Z"
+  "updatedAt": "2026-10-17T05:18:02.068Z"
 }

@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T05:18:02.068Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "KI: Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
+      "summary": "Deutschland will beim KI-Boom mitwirken - die Industrie soll zukunftsfähig gemacht und der Standort für Investoren attraktiver werden. Um das zu erreichen, hat die Regierung offenbar einen Deal mit Nvidia eingefädelt.",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-16T13:13:40.000Z",
+      "alsoReportedBy": [
+        "heise online"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "EU-Gipfel in Brüssel: Mitgliedsstaaten sind sich bei EU-Haushalt nicht einig",
+      "summary": "Nach dem zweitägigen EU-Gipfel fehlen bei Themen wie dem Haushalt weiterhin Lösungen. Einig waren sich die EU-Staaten hingegen bei dem Notfallplan für Migrationskrisen.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/eu-gipfel-bruessel-haushalt-antonio-costa-migration",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-16T22:36:58.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "Kooperation mit Nvidia: Nvidia-Deal: Wer soll bei KI in Deutschland mitmischen?",
+      "summary": "Die Bundesregierung will mit Nvidia die KI-Entwicklung beschleunigen. Wie?",
+      "url": "https://www.zeit.de/politik/2026-10/kooperation-nvidia-ai-bundesregierung-nachrichtenpodcast",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-17T04:00:14.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "RTX Spark im Test: Nvidias erster Notebook-Chip für lokale KI",
+      "summary": "Das erste RTX-Spark-Notebook im c’t-3003-Testlabor: Kann das Asus ProArt P14 die KI-Versprechen einlösen? Und: Läuft es wirklich nur mit Windows?",
+      "url": "https://www.heise.de/news/RTX-Spark-im-Test-Nvidias-erster-Notebook-Chip-fuer-lokale-KI-11490664.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-16T15:38:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Krieg in der Ukraine: Trump setzt neue Russlandsanktionen aus",
+      "summary": "Am Sonntag sollten neue Sanktionen gegen Russland greifen, doch Donald Trump stoppt sie per Dekret. Zuvor vereinbarte er einen Dieseldeal mit der russischen Regierung.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/us-sanktionen-russland-donald-trump-lindsey-graham",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-17T02:54:10.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "\"Rente mit 63\": Arbeitsminister Schweitzer fordert Kompromiss",
+      "summary": "Bundesarbeitsminister Schweitzer setzt bei der Rentenreform auf Kompromissbereitschaft in der schwarz-roten Koalition. Insbesondere über die abschlagsfreie Rente nach 45 Beitragsjahren müssten noch \"politische Debatten stattfinden\".",
+      "url": "https://www.tagesschau.de/inland/schweitzer-rente-kompromiss-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-17T01:50:50.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "Liveblog Ukrainekrieg: Trump setzt per Dekret Teile der Russland-Sanktionen aus",
+      "summary": "Trump widerspricht Musk: Nicht für Starlink-Drosselung verantwortlich +++ Von der Leyen bestätigt: Ukraine benötigt 2027 weitere 70 Milliarden Euro +++ Der „Sündenbock“ Trumps? Selenskyj lächelt Frage weg +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-setzt-per-dekret-teile-der-russland-sanktionen-aus-faz-110683325.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-17T01:28:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
+      "summary": "Die Gräben zwischen den USA und der Ukraine scheinen immer größer zu werden. Selenskyj wendet sich mit einer Grundsatzfrage an die EU-Staaten - die haben militärische, finanzielle und politische Probleme.",
+      "url": "https://www.tagesschau.de/ausland/europa/selenskyj-eu-gipfel-102.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-10-16T18:07:15.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "KI-Update: Schwarzer Donnerstag, Neue Open-Weight-Modelle, Klagen gegen OpenAI",
+      "summary": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-Schwarzer-Donnerstag-Neue-Open-Weight-Modelle-Klagen-gegen-OpenAI-11489303.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-16T13:00:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "KI im Recruiting: Wie McKinsey Bewerbende mit Chatbots testet",
+      "summary": "Das Beratungsunternehmen McKinsey setzt in Nordamerika auf künstliche Intelligenz, um Bewerbende in simulierten Kundengesprächen auf die Probe zu stellen.",
+      "url": "https://www.heise.de/news/KI-im-Recruiting-Wie-McKinsey-Bewerbende-mit-Chatbots-testet-11490750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-16T11:03:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
