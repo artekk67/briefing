@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-10-18",
+      "title": "Regierungsbildung in Berlin: CDU-Landeschef nennt Sondierungspapier »Kapitulationserklärung«",
+      "count": 10
+    },
+    {
       "date": "2026-10-17",
       "title": "KI: Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
       "count": 10
@@ -51,5 +56,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-10-17T05:18:02.068Z"
+  "updatedAt": "2026-10-18T05:19:19.100Z"
 }
