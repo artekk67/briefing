@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T05:28:23.799Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
+      "summary": "Deutschland und der US-Chip-Gigant Nvidia haben eine Zusammenarbeit bei der Entwicklung Künstlicher Intelligenz beschlossen. Die Vereinbarung wurde beim ersten \"Invest in Germany\"-Gipfel verkündet - und soll die deutsche Wettbewerbsfähigkeit stärken.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-19T19:23:41.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "Regierungsbildung in Berlin: Berliner SPD stimmt für Koalitionsverhandlungen mit Linken und Grünen",
+      "summary": "Die Berliner SPD-Führung hat Koalitionsgespräche mit Grünen und Linken beschlossen. Die Grünen wollen noch heute darüber entscheiden, die Linke Ende Oktober.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/berliner-spd-stimmt-fuer-koalitionsverhandlungen-mit-linken-und-gruenen",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-19T17:30:03.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "Kanzler Merz hofft auf Nvidia als Wachstumsbeschleuniger",
+      "summary": "Der Gipfel „Invest in Germany“ startete in Berlin mit einer Plauderei zwischen Bundeskanzler und Nvidia-CEO. Beide wollen Industriedaten für KI nutzbar machen.",
+      "url": "https://www.heise.de/news/Kanzler-Merz-hofft-auf-Nvidia-als-Wachstumsbeschleuniger-11493401.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-19T21:50:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Künstliche Intelligenz: Bund unterzeichnet KI-Absichtserklärung mit Chiphersteller Nvidia",
+      "summary": "Deutschland will mit dem US-Unternehmen Nvidia bei der Entwicklung von künstlicher Intelligenz zusammenarbeiten. Hierfür wurde nun eine Erklärung unterzeichnet.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/nvidia-bundesregierung-ki-kooperation-physical-ai-robotik-gxe",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-19T19:05:21.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Rot-Rot-Grün: Berliner Grüne stimmen für Koalitionsverhandlungen",
+      "summary": "Nach der Berliner SPD entscheiden sich auch die Grünen für gemeinsame Verhandlungen mit der Linken. Worum es beim kleinen Parteitag sonst noch ging.",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/berliner-gruene-stimmen-fuer-koalitionsverhandlungen-mit-spd-und-linke-201603305.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-19T20:06:23.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
+      "summary": "Die Grünen und die SPD wollen in Berlin mit der Linkspartei Koalitionsverhandlungen aufnehmen. Beide Parteien entschieden sich am Abend für die Gespräche - die Abstimmung bei der Linken steht noch aus.",
+      "url": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-19T19:52:35.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "Brasilien-Wahl: Lula da Silva und Flávio Bolsonaro Kopf-an-Kopf",
+      "summary": "Knapp eine Woche vor der entscheidenden Stichwahl sehen Umfragen den linken Präsidenten Lula da Silva und den rechten Herausforderer Bolsonaro nahezu gleichauf. Die Entscheidung dürfte in der letzten TV-Debatte fallen.",
+      "url": "https://www.dw.com/de/brasilien-wahl-lula-da-silva-und-flávio-bolsonaro-kopf-an-kopf/a-79700769?maca=de-rss-de-all-1119-rdf",
+      "source": "Deutsche Welle",
+      "category": "welt",
+      "publishedAt": "2026-10-20T05:15:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird",
+      "summary": "Lange galt die Arktis als Region mit wenigen Spannungen. Doch die geopolitische Lage hat sich grundlegend geändert, und auch der Klimawandel betrifft den hohen Norden.",
+      "url": "https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-10-20T04:27:24.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "30 Millionen Parameter: Lokalers KI-Sprachmodell für den ESP32",
+      "summary": "Ein selbst trainiertes Sprachmodell mit 30 Millionen Parametern schafft es auf einem ESP32-S3 einfache Gespräche zu halten -- ganz ohne Internetverbindung.",
+      "url": "https://www.heise.de/news/30-Millionen-Parameter-Lokaler-KI-Sprachmodell-fuer-den-ESP32-11492822.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-19T12:49:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Apps sollen gegen Depressionen helfen – was digitale Therapien leisten können",
+      "summary": "Digitale Gesundheitsanwendungen können bei Depressionen helfen. Doch Software stößt an Grenzen – besonders bei Krisen und Datenschutz.",
+      "url": "https://www.heise.de/hintergrund/Apps-sollen-gegen-Depressionen-helfen-was-digitale-Therapien-leisten-koennen-11493195.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-19T19:21:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}

@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-10-20",
+      "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
+      "count": 10
+    },
+    {
       "date": "2026-10-19",
       "title": "Regierungsbildung in Berlin: 20 SPD-Bundestagsabgeordnete lehnen Koalition mit Linken in Berlin ab",
       "count": 10
@@ -61,5 +66,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-10-19T05:03:29.756Z"
+  "updatedAt": "2026-10-20T05:28:23.799Z"
 }
