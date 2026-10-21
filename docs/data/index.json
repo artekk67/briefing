@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-10-21",
+      "title": "Regierungsbildung in Berlin: Volker Beck kritisiert Grüne und SPD für Koalitionsgespräche in Berlin",
+      "count": 10
+    },
+    {
       "date": "2026-10-20",
       "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
       "count": 10
@@ -66,5 +71,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-10-20T05:28:23.799Z"
+  "updatedAt": "2026-10-21T05:30:27.916Z"
 }

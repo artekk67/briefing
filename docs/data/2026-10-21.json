@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T05:30:27.916Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Regierungsbildung in Berlin: Volker Beck kritisiert Grüne und SPD für Koalitionsgespräche in Berlin",
+      "summary": "Der Chef der Deutsch-Israelischen Gesellschaft nennt die Berliner Linke »antizionistisch«. SPD und Grünen wirft er vor, die Sorgen von Juden zu ignorieren.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/volker-beck-antisemitismus-berliner-linke-vanessa-emde",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-21T04:18:36.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "Hackerangriff auf AfD: Was die gehackten AfD-Mails offenbaren",
+      "summary": "Hunderttausende Mails der AfD sind nach einem Datendiebstahl öffentlich. Wie gefährlich wird das der Partei?",
+      "url": "https://www.zeit.de/politik/2026-10/hackerangriff-afd-email-nachrichtenpodcast",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-21T04:06:26.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "Mittwoch: Chinas Überbestellungen bei Nvidia, Börsenzweifel an Netflix-Wachstum",
+      "summary": "Milliarden-Order für KI-Inferenz + Netflix-Ausblick mit Vorsicht + Microsoft-Tools für Cloud-Souveränität + Podcast zu Cyberrisiken in Kliniken + Bit-Rauschen",
+      "url": "https://www.heise.de/news/Mittwoch-Chinas-Ueberbestellungen-bei-Nvidia-Boersenzweifel-an-Netflix-Wachstum-11494952.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-21T04:15:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Kann die EU mit ihrer KI-Agenda die USA und China einholen?",
+      "summary": "Auf einem KI-Gipfel in Dublin setzen sich die Top-Entscheider der EU für eine vertrauenswürdige und unabhängige künstliche Intelligenz ein. Kritiker bezweifeln, dass die EU so zu den USA und China aufschließen kann.",
+      "url": "https://www.dw.com/de/kann-die-eu-mit-ihrer-ki-agenda-die-usa-und-china-einholen/a-79712885?maca=de-rss-de-all-1119-rdf",
+      "source": "Deutsche Welle",
+      "category": "welt",
+      "publishedAt": "2026-10-20T15:29:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
+      "summary": "Unbekannte haben einen Hackerangriff auf Mail-Konten der AfD verübt und laut eigenen Angaben Daten daraus veröffentlicht. Die AfD bestätigte einen Angriff auf Postfächer, die aber überwiegend nicht mehr genutzt würden.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-20T16:38:28.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Koalitionsverhandlungen in Berlin: »Oder wir gehen in die Opposition«",
+      "summary": "Franziska Giffey koalierte einst mit der Linken, heute sieht sie die Partei als Gegnerin mit Clan-Nähe. Trotzdem schließt sie nicht aus, SPD-Senatorin zu bleiben.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/koalitionsverhandlungen-berlin-die-linke-die-gruenen-spd",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-20T18:18:08.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "USA: US-Regierung widerruft in Trumps zweier Amtszeit mehr als 300.000 Visa",
+      "summary": "Die US-Regierung hat mit einem beschleunigten Verfahren seit Donald Trumps Amtsantritt 2025 mehr als 300.000 Visa aufgehoben. Menschenrechtler kritisieren das Vorgehen.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/visa-politik-usa-donald-trump-einwanderung-aussenministerium-gxe",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-21T05:26:12.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Elon Musk: Musk soll für Starlink-Drosselung in der Ukraine verantwortlich sein",
+      "summary": "Laut einem Medienbericht hat der SpaceX-Gründer die Begrenzung des Satelliteninternets Starlink genehmigt. Auch mit Donald Trump soll er den Fall besprochen haben.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/elon-musk-starlink-drosselung-ukraine-donald-trump",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-20T21:37:37.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "KI-Wohltäter-Battle: Anthropic gründet Fund, Musk verschenkt Aktien an Kinder",
+      "summary": "Anthropic gründet eine Gemeinwohl-„Fund“. Elon Musk kann das nicht auf sich sitzen lassen und kündigt an, SpaceX-Aktien an Kinder verschenken zu wollen.",
+      "url": "https://www.heise.de/news/KI-Wohltaeter-Battle-Anthropic-gruendet-Fund-Musk-verschenkt-Aktien-an-Kinder-11493199.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-20T13:08:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Amazon investiert im nächsten Jahr 16 Milliarden Euro in deutsche Cloud und KI",
+      "summary": "16 Milliarden Euro will Amazon 2027 in Deutschland investieren – ein großer Teil soll in Cloud und KI rund um Frankfurt fließen.",
+      "url": "https://www.heise.de/news/Cloud-und-KI-Amazon-will-2027-16-Milliarden-Euro-in-Deutschland-investieren-11493822.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-20T09:53:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
