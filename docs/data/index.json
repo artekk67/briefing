@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-10-23",
+      "title": "Die AfD und Europa: Am Ende könnte der Untergang der EU stehen",
+      "count": 10
+    },
+    {
       "date": "2026-10-22",
       "title": "Donnerstag: Datenschutzfragen bei AfD-Leak, Gewinnexplosion bei Meta Platforms",
       "count": 10
@@ -76,5 +81,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-10-22T05:01:55.396Z"
+  "updatedAt": "2026-10-23T05:28:24.153Z"
 }
