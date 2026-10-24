@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-10-24",
+      "title": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
+      "count": 10
+    },
+    {
       "date": "2026-10-23",
       "title": "Die AfD und Europa: Am Ende könnte der Untergang der EU stehen",
       "count": 10
@@ -81,5 +86,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-10-23T05:28:24.153Z"
+  "updatedAt": "2026-10-24T05:21:08.777Z"
 }

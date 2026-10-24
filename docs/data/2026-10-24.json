@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T05:21:08.777Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
+      "summary": "Zum Auftakt des CSU-Parteitags knöpft sich Parteichef Söder die Linke und die AfD vor. Und er weist auf den Ernst der Lage für die Union hin.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-23T18:10:26.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia-CEO nimmt KI-Entwickler in die Pflicht: Sollen keine Schäden anrichten",
+      "summary": "Laut Jensen Huang macht nicht Regulierung KI sicher, sondern Engineering. Als Sicherheitsgurt für KI-Agenten empfiehlt Nvidia seine freie Software OpenShell.",
+      "url": "https://www.heise.de/news/Nvidia-CEO-nimmt-KI-Entwickler-in-die-Pflicht-Sollen-keine-Schaeden-anrichten-11498634.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-23T15:28:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "Künstliche Intelligenz: Als die KI ins globale Dorf kam",
+      "summary": "Zehntausende Kenianer verdienten ihr Geld als „Ghostwriter“ für Studenten im Ausland. Jetzt erledigt diesen Job die KI.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/ghostwriter-in-kenia-wie-ki-die-globalisierung-zurueckdreht-201295366.html",
+      "source": "FAZ",
+      "category": "welt",
+      "publishedAt": "2026-10-23T20:39:39.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Deutschland Liveblog: Söder schickt eine Warnung an die Freien Wähler",
+      "summary": "CSU-Chef auf Parteitag in München: Fortsetzung der Koalition nicht um jeden Preis +++ CDU pocht auf Recht, eigenen Kandidaten für Bundespräsidentenwahl zu benennen +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-soeder-schickt-eine-warnung-an-die-freien-waehler-faz-110093143.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-23T19:10:45.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Philipp Türmer: Juso-Chef macht Vorschläge zur Finanzierung von Rente und Bildung",
+      "summary": "Im Streit um Sozialreformen empfiehlt Philipp Türmer, Politiker sollten in die Rentenkasse einzahlen. Bildungsausgaben will der Juso durch die Erbschaftsteuer aufstocken.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/philipp-tuermer-juso-chef-spd-sozialsysteme-rente-erbschaftsteuer",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-24T03:29:49.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Bürgergeld und Einsparungen: Geschichte eines Irrtums",
+      "summary": "2024 hatte Kanzler Merz im Wahlkampf versprochen, das \"System Bürgergeld vom Kopf auf die Füße\" zu stellen. Zweistellige Milliardenbeträge wollte er so einsparen.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-einsparungen-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-23T17:50:13.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "US-Wahlkampf: Trump hebt Zölle auf kanadische Agrar- und Forstprodukte auf",
+      "summary": "Zolländerungen sollen Republikanern in den nördlichen US-Staaten vor den Zwischenwahlen helfen. Demokrat Ron Wyden sieht einen »verzweifelten Versuch in letzter ‌Minute«.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/donald-trump-zoelle-kanada-agrarprodukte-susan-collins-maine",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-24T04:42:31.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "US-Midterms: Die Sorge vor einer neuen Wahllüge Trumps",
+      "summary": "Seitdem Trump vor sechs Jahren gegen Biden verlor, leugnet er das Wahlergebnis. Die Lüge ist Doktrin in seiner Partei, viele US-Bürger haben sie verinnerlicht.",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-wahlbetrug-100.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-10-24T04:10:57.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "Jetzt auch von Anthropic: Proaktiver KI-Agent für den Arbeitsalltag",
+      "summary": "Anthropic veröffentlicht mit Claude Duet nun auch einen persönlichen Agenten. Er zielt zunächst auf Fachleute und Kleinunternehmer und startet als Preview.",
+      "url": "https://www.heise.de/news/Jetzt-auch-von-Anthropic-Proaktiver-KI-Agent-fuer-den-Arbeitsalltag-11498244.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-23T12:30:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "AfD-Leak: Mutmaßliche Täter bekennen sich",
+      "summary": "In einem Interview mit der Zeit bekennen sich zwei anonyme Täter zu dem Cyberangriff auf die AfD: Es gehe um Transparenz und Gerechtigkeit.",
+      "url": "https://www.heise.de/news/AfD-Leak-Mutmassliche-Taeter-bekennen-sich-11498375.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-23T11:30:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
