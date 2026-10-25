@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T06:29:05.797Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "US-Justizministerium: US-Regierung droht Wahlbeamten in Kalifornien mit Ermittlungen",
+      "summary": "Kurz vor den Midterm-Wahlen in den USA setzt die Regierung Wahlbeamte unter Druck. Sie gibt vor, die Stimmabgabe von angeblichen Nichtstaatsbürgern verhindern zu wollen.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/us-justizministerium-kalifornien-wahl-nicht-staatsbuerger-briefwahl-gxe",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-25T05:35:48.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "Midterms: Obama greift Trump im Wahlkampf scharf an",
+      "summary": "„Chaos, Grausamkeit, Korruption und Inkompetenz“: Mit schweren Vorwürfen gegen die Trump-Regierung schaltet sich der ehemalige US-Präsident Barack Obama vor den Zwischenwahlen in den Wahlkampf ein.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/obama-greift-trump-im-wahlkampf-scharf-an-accg-201618651.html",
+      "source": "FAZ",
+      "category": "welt",
+      "publishedAt": "2026-10-25T04:29:53.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
+      "summary": "Wird CSU-Politikerin Aigner Kandidatin für das Amt der Bundespräsidentin? Mit Spannung wurde erwartet, ob sich CDU-Chef Merz auf dem CSU-Parteitag dazu äußert.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-24T16:51:47.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Stichwahl in Brasilien: Lula und Bolsonaro treten vor Stichwahl bei Kundgebungen auf",
+      "summary": "Präsident Lula da Silva und sein Herausforderer Flávio Bolsonaro haben am Tag vor der Wahl vor Anhängern gesprochen. Umfragen gehen von einem sehr knappen Ergebnis aus.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/stichwahl-brasilien-praesident-luiz-inacio-lula-da-silva-flavio-bolsonaro",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-24T23:10:00.000Z",
+      "alsoReportedBy": [
+        "tagesschau.de"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Wahl in Serbien: Zum ersten Mal muss Vučić bangen",
+      "summary": "In Serbien will die „Studentische Liste“ den langjährigen Präsidenten Vučić von der Macht verdrängen. Der wiederum hat nicht nur Wladimir Putin an seiner Seite.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-zum-ersten-mal-muss-vui-bangen-accg-201610779.html",
+      "source": "FAZ",
+      "category": "welt",
+      "publishedAt": "2026-10-25T06:00:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Liveblog Ukrainekrieg: Musk: Ukraine hat Starlink für Offensivangriffe genutzt",
+      "summary": "Tech-Milliardär wirft Ukraine vor, gegen Nutzungsbedingungen verstoßen zu haben +++ Kiew: Starlink wieder stabil – Drosselung des Satelliteninternets offenbar aufgehoben +++ Friedensgespräche in Abu Dhabi geplant +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-musk-ukraine-hat-starlink-fuer-offensivangriffe-genutzt-faz-110683325.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-24T20:58:35.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
+      "summary": "In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen.",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-25T04:10:34.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Anthropic lässt KI-Agenten Verhandlungsregeln für Menschen lernen",
+      "summary": "Anthropic berät sich angeblich mit Anwaltskanzleien, wie KI-Agenten künftig Preise, Gehälter und Verträge für ihre Nutzer aushandeln sollten.",
+      "url": "https://www.heise.de/news/Anthropic-laesst-KI-Agenten-Verhandlungsregeln-fuer-Menschen-lernen-11498981.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-24T08:14:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "OpenAI stellt seine neue Trainingsumgebung vor – ohne Air Gap",
+      "summary": "OpenAI verschärfte nach Hacking-Attacken durch seine KI die Sicherheits-Maßnahmen. Die „Offline-Welten“ dafür sind aber nicht offline.",
+      "url": "https://www.heise.de/news/OpenAI-stellt-seine-neue-Trainingsumgebung-vor-ohne-Air-Gap-11499163.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-24T11:37:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Continuous Architecture: KI zwingt uns dazu, veraltete Dokumentation aufzuräumen",
+      "summary": "Im Interview beschreibt Murat Erder, wie KI Softwareentwicklung verändern kann, ohne die grundlegenden Prinzipien guter Architektur außer Kraft zu setzen.",
+      "url": "https://www.heise.de/hintergrund/Continuous-Architecture-KI-zwingt-uns-dazu-veraltete-Dokumentation-aufzuraeumen-11497700.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-24T08:03:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
