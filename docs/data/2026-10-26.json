@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T06:01:32.894Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Stromsteuer-Debatte: Union und SPD weiter weit auseinander",
+      "summary": "Dass Unternehmen und Haushalte beim Strompreis entlastet werden sollen, darüber herrscht in der Regierung Einigkeit. Unklar aber ist, wie das finanziert werden kann.",
+      "url": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-25T18:49:43.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "Liveblog Nahost: Libyen bestellt nach Trump-Äußerungen Leiter der US-Vertretung ein",
+      "summary": "Forschungsinstitut: Rekordhoch bei Angriffen auf Schiffe in Straße von Hormus +++ Saudi-Arabien: Raketenangriff der Huthis auf Riad abgewehrt +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-heftiger-streit-zwischen-netanjahu-und-generalstabschef-faz-200583539.html",
+      "source": "FAZ",
+      "category": "welt",
+      "publishedAt": "2026-10-26T03:09:00.000Z",
+      "alsoReportedBy": [
+        "DIE ZEIT"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Pläne der Koalition: Wahlrechtsreform kommt kaum voran",
+      "summary": "Neben dem Umbau der Sozialsysteme hat die schwarz-rote Koalition eine Reform angekündigt, bei der es für manche um die politische Existenz geht: Sie möchte das Wahlrecht ändern. Doch es geht nur langsam voran.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/wahlrecht-reform-104.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-25T11:57:30.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Stichwahl in Brasilien: Lula triumphiert. Doch der Bolsonaro-Clan gibt nicht auf",
+      "summary": "Brasilien drohte mit Bolsonaro ein Präsident, der die Demokratie zertrümmern wollte. Aber Lula gelang die Wende.",
+      "url": "https://www.zeit.de/politik/2026-10/stichwahl-brasilien-praesidentschaft-lula-da-silva-flavio-bolsonaro",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-26T05:38:40.000Z",
+      "alsoReportedBy": [
+        "tagesschau.de"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Montag: Audi mit neuem US-Werk trotz VW-Sparkurs, Google-Werbung mit Nutzerdaten",
+      "summary": "Trump-Wahlkampf mit Audi + Anzeigen auf Basis von Gmail & Google Fotos + Warnung europäischer KI-Firmen + 30 Jahre Tomb Raider + Test von Bundeswehr-Digitalfunk",
+      "url": "https://www.heise.de/news/Montag-Audi-mit-neuem-US-Werk-trotz-VW-Sparkurs-Google-Werbung-mit-Nutzerdaten-11499583.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-26T05:15:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Parlamentswahl in Serbien: Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
+      "summary": "Serbiens Ex-Staatschef Vučić hat seine Niederlage gegenüber dem Studentenbündnis eingeräumt. Die EU kündigt an, Reformen in dem Land zu unterstützen.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/parlamentswahl-in-serbien-aleksandar-vu-i-gesteht-niederlage-ein",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-25T20:40:54.000Z",
+      "alsoReportedBy": [
+        "FAZ"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Lula gewinnt Wahl - Bolsonaro erkennt Niederlage nicht an",
+      "summary": "Der linke Staatschef Lula hat die Präsidentschaftswahl in Brasilien gewonnen. Er setzte sich gegen den rechten Kandidaten Bolsonaro durch - doch der will das Ergebnis nicht anerkennen.",
+      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-10-26T03:28:19.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Deutsche Geheimdienste setzen auf Cloud-System von Google",
+      "summary": "Um geheime Informationen schneller untereinander austauschen zu können, wollen BND, Verfassungsschutz und MAD ein gemeinsames Cloud-System aufbauen. Nach Recherchen von NDR und WDR soll Google dabei eine maßgebliche Rolle spielen.",
+      "url": "https://www.tagesschau.de/investigativ/ndr-wdr/nachrichtendienst-google-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-26T05:11:08.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "Mistral- und DeepL-Chefs warnen vor KI-Kapitulation Europas",
+      "summary": "EU-Spitzenpolitiker wie von der Leyen setzen bei KI neuerdings vor allem auf Anwendungen. Mistral und DeepL warnen vor verstärkter technologischer Abhängigkeit.",
+      "url": "https://www.heise.de/news/KI-Streit-in-Europa-EU-Tech-Chefs-wehren-sich-gegen-Kapitulation-11499445.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-25T13:28:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Google erlaubt sich nun Zugriff auf Gmail und Fotos für personalisierte Werbung",
+      "summary": "Durch eine Änderung der Datenschutzerklärung kann Google jetzt Anzeigen auf Basis persönlicher E-Mails und Fotos personalisieren. Das lässt sich aber abstellen.",
+      "url": "https://www.heise.de/news/Google-erlaubt-sich-nun-Zugriff-auf-Gmail-und-Fotos-fuer-personalisierte-Werbung-11499567.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-26T04:03:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}

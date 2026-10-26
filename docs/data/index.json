@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-10-26",
+      "title": "Stromsteuer-Debatte: Union und SPD weiter weit auseinander",
+      "count": 10
+    },
+    {
       "date": "2026-10-25",
       "title": "US-Justizministerium: US-Regierung droht Wahlbeamten in Kalifornien mit Ermittlungen",
       "count": 10
@@ -91,5 +96,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-10-25T06:29:05.797Z"
+  "updatedAt": "2026-10-26T06:01:32.894Z"
 }
