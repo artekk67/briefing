@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T06:32:11.518Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Liveblog zur Israel-Wahl: ++ Netanjahu will Regierung bilden - Eisenkot auch ++",
+      "summary": "Kein klarer Wahlsieger in Israel nach Prognosen - dennoch beansprucht sowohl das Netanjahu-Lager als auch das Bündnis um Ex-Militärchef Eisenkot die Regierungsbildung für sich. Zulegen können die arabischen Parteien.",
+      "url": "https://www.tagesschau.de/newsticker/liveblog-israel-wahl-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-28T06:28:30.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "Anthropics Börsengang: Die Milliardenrisiken hinter dem KI-Boom",
+      "summary": "Anthropics Geschäft boomt. Doch der geplante Börsengang bringt erhebliche Risiken ans Licht, wie ein genauerer Blick auf die Börsenunterlagen zeigt.",
+      "url": "https://www.heise.de/news/Anthropics-Boersengang-Die-Milliardenrisiken-hinter-dem-KI-Boom-11502267.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-27T16:22:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "Knesset-Wahl in Israel: Prognosen zeigen Patt-Situation in Israel",
+      "summary": "Nach der Wahl in Israel sehen mehrere TV-Sender ein enges Rennen um die Mehrheit im Parlament. Sowohl Eisenkot als auch Netanjahu kündigten an, eine Regierung bilden zu wollen.",
+      "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-10-28T03:17:52.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Cyberkriminalität: Hackerangriff stört offenbar Meldesystem der US-Wahlbehörde FEC",
+      "summary": "Kurz vor den Kongresswahlen in den USA ist die Website der US-Wahlbehörde FEC gehackt worden. Der ​Ausfall dürfte jedoch keine Auswirkungen auf die Stimmabgabe haben.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/fec-hack-us-wahlbehoerde-offline-midterms",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-27T22:29:32.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
+      "summary": "Bisher gibt es nur den Vorschlag der CSU: Ilse Aigner soll Bundespräsidentin werden. Doch in der CDU gibt es den Wunsch nach einem Namen aus den eigenen Reihen.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/moegliche-nachfolgerin-steinmeier-ines-claus-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-27T19:52:58.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Deutschland Liveblog: SPD lässt Mitglieder in Berlin über „Rot-Grün-Rot“ abstimmen",
+      "summary": "Auch Linke und Grüne wollen Mitgliedervotum einholen +++ Berliner Linksfraktion vertagt Entscheidung über Emde +++ Claus gilt in CDU als Favoritin für Steinmeier-Nachfolge +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-spd-laesst-mitglieder-in-berlin-ueber-rot-gruen-rot-abstimmen-faz-110093143.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-27T19:07:41.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "Parlamentswahl in Israel: Sowohl Eisenkot als auch Netanjahu sehen Regierungsauftrag bei sich",
+      "summary": "Menschen in Israel hätten sich für »den Wandel entschieden«, sagt Gadi Eisenkot. Benjamin Netanjahu will trotz des knappen Ausgangs eine Regierung bilden.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/parlamentswahl-israel-benjamin-netanjahu-gadi-eisenkot-live",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-28T06:20:53.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Gipfel in Moskau: Auch Afrikaner fallen für Putin",
+      "summary": "Der Kreml inszeniert die russisch-afrikanische Freundschaft. Ein UN-Bericht beklagt derweil die Rekrutierung afrikanischer Männer für Putins Krieg.",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/putin-umwirbt-afrika-gipfel-in-moskau-accg-201624926.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-28T06:17:38.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "HPE vereint Netzwerk- und Sicherheitsmanagement mit KI",
+      "summary": "HPE führt Netzwerk- und Sicherheitsdaten aus LAN, WLAN und SASE in Mist und Aruba Central zusammen. Der KI-Agent Marvis soll die Fehleranalyse beschleunigen.",
+      "url": "https://www.heise.de/news/HPE-vereint-Netzwerk-und-Sicherheitsmanagement-mit-KI-11502351.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-28T06:01:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Speicherkrise wegen KI-Hype: Fujifilm verfünffacht Produktion von Magnetbändern",
+      "summary": "Die Speicherknappheit hat die IT-Branche fest im Griff und davon profitiert auch ein ehemaliges Auslaufmodell: Fujifilm will bald viel mehr Tapes produzieren.",
+      "url": "https://www.heise.de/news/Speicherkrise-wegen-KI-Hype-Fujifilm-verfuenffacht-Produktion-von-Magnetbaendern-11502531.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-28T05:58:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
