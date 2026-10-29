@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T06:35:04.857Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
+      "summary": "Kanzler Merz und andere EU-Regierungschefs haben die Kanada-Pläne von EU-Kommissionspräsidentin von der Leyen abgeschwächt - kurz vor dem heute beginnenden EU-Kanada-Gipfel. Von einer \"assoziierten Mitgliedschaft\" ist nicht mehr die Rede.",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-10-29T06:20:37.000Z",
+      "alsoReportedBy": [
+        "FAZ",
+        "DIE ZEIT"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "KI-Update kompakt: Anthropics Börsengang, Wahlhilfe, DeepMind Genie, Magnetband",
+      "summary": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-Anthropics-Boersengang-Wahlhilfe-DeepMind-Genie-Magnetband-11503080.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-28T14:00:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "CDU in Sachsen-Anhalt: Die Wahl ist geheim – ist das so schwer?",
+      "summary": "Wir wissen nicht, wer wen in geheimer Wahl wählt. Das ist der Sinn.",
+      "url": "https://www.faz.net/aktuell/politik/inland/cdu-in-sachsen-anhalt-die-wahl-ist-geheim-ist-das-so-schwer-201629107.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-29T05:35:04.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Netanjahu bei Wahl in Israel vorn - ohne Regierungsmehrheit",
+      "summary": "Der Likud-Chef, der mit Unterbrechungen fast 19 Jahre lang regiert, will wieder eine Koalition bilden. Doch dafür fehlen ihm bisher noch entscheidende Sitze in der Knesset.",
+      "url": "https://www.dw.com/de/netanjahu-bei-wahl-in-israel-vorn-ohne-regierungsmehrheit/a-79783510?maca=de-rss-de-all-1119-rdf",
+      "source": "Deutsche Welle",
+      "category": "welt",
+      "publishedAt": "2026-10-28T15:04:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Wie lange ist Christine Lagarde noch EZB-Chefin?",
+      "summary": "In vielen Euro-Ländern stockt die Konjunktur, Proteste wie in Frankreich setzen Regierungen unter Druck. Da bräuchte die EZB eine starke Führung - doch über die Zukunft von Notenbankchefin Lagarde wird heftig spekuliert.",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsen-lagarde-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-29T06:28:41.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Großbritannien: Burnhams Regierung stellt Haushalt vor",
+      "summary": "Die Vorstellung des Haushalts war für Großbritanniens Premier Burnham der erste Härtetest. Die Erwartungen der Briten sind hoch.",
+      "url": "https://www.tagesschau.de/ausland/europa/gb-labour-haushalt-burnham-100.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-10-28T18:20:51.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "#heiseshow: Apple-Experience, KI-Profit bleibt aus, Cookie-Banner",
+      "summary": "In der #heiseshow: Apple-Experience zeigt neue Macs, nur große Tech-Unternehmen profitieren von KI und EU möchte keine technische Lösung für Cookie-Banner.",
+      "url": "https://www.heise.de/news/heiseshow-Apple-Experience-KI-Profit-bleibt-aus-Cookie-Banner-11503402.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-29T05:15:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Marktbericht: DAX dürfte vor EZB-Zinsentscheid leicht zulegen",
+      "summary": "Heute müssen die Investoren die Zahlen der US-Tech-Konzerne Microsoft und Alphabet verarbeiten. Am Nachmittag steht noch der Zinsentscheid der EZB an.",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-29T06:26:29.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "Elterngeldreform: SPD-Politiker will Väter nach Geburt vier Wochen bezahlt freistellen",
+      "summary": "Parallel zur Elterngeldreform werden in der SPD Forderungen nach weiterer Familienförderung laut. Felix Döring spricht sich für eine Familienstartzeit aus.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/elterngeld-reform-cdu-spd-familienstartzeit-gxe",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-29T06:03:02.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Neues LLM: Gemini 4 Carbon ist Exploit-Experte",
+      "summary": "Erst vor 4 Wochen hat Google sein Sprachmodell Gemini Argon freigegeben, da lässt es schon das nächste Spitzenmodell vom Stapel laufen. Es heißt Carbon.",
+      "url": "https://www.heise.de/news/Gemini-Argon-war-gestern-jetzt-kommt-Carbon-11503849.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-28T20:54:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
