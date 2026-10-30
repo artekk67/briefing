@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T06:35:32.864Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Freitag: Google-Konzern mit massivem Börsenverlust, Amazon mit hohen KI-Kosten",
+      "summary": "Absturz wegen hoher Alphabet-Ausgaben + Amazon-Wachstum dank AWS + Patrick Stewart gestorben + Telekom-Fusion mit T-Mobile USA vertagt + Datenschutz-Podcast",
+      "url": "https://www.heise.de/news/Freitag-Google-Konzern-mit-massivem-Boersenverlust-Amazon-mit-hohen-KI-Kosten-11505595.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-30T05:15:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "EU-Kanada-Gipfel: \"Die neue Allianz ist keine Marketing-Übung\"",
+      "summary": "Beim EU-Kanada-Gipfel ging es auf europäischer Seite bislang viel darum, wie die neue Allianz denn heißen soll soll. Kanadas Premier Carney sagt dazu: \"Der Name ist egal.\" Heute sollen konkrete Vereinbarungen folgen.",
+      "url": "https://www.tagesschau.de/ausland/amerika/eu-kanada-zweiter-tag-100.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-10-30T05:46:43.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "Knesset-Wahl: Regiert bald eine jüdisch-arabische Koalition Israel?",
+      "summary": "In Israel gibt es für kein Lager eine klare Mehrheit. Für eine stabile Regierung müssen Wahlversprechen gebrochen werden.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/israels-parlamentswahl-regiert-bald-eine-juedisch-arabische-koalition-201632198.html",
+      "source": "FAZ",
+      "category": "welt",
+      "publishedAt": "2026-10-29T17:02:18.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
+      "summary": "In Deutschland könnte es eine Steuer auf Umsätze geben, die mit Künstlicher Intelligenz erzielt werden. Auch Familienministerin Prien sprach sich nun dafür aus.",
+      "url": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-29T20:12:03.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Bosnien und Herzegowina: Vier Tote bei Absturz von Helikopter der EU-Friedenstruppe in Bosnien",
+      "summary": "In Bosnien und Herzegowina ist ein italienischer Armeehubschrauber abgestürzt. Vier Mitglieder der EU-Friedensmission Eufor Althea starben, elf weitere wurden verletzt.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/eufor-helikopterabsturz-bosnien-herzegowina-brcko",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-29T23:56:06.000Z",
+      "alsoReportedBy": [
+        "FAZ"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "heise+ | Billige KI-Accounts per Abo-Sharing: GamsGo ausprobiert",
+      "summary": "Nützliche KI-Assistenten aus der Cloud gibt es viele. Leider sind sie recht teuer.",
+      "url": "https://www.heise.de/ratgeber/Billige-KI-Accounts-per-Abo-Sharing-GamsGo-ausprobiert-11432070.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-30T06:30:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "Zwischenwahlen in den USA: US-Justizministerium lässt Wahlbeamte in Kalifornien vorladen",
+      "summary": "Die Trump-Regierung erhöht vor den Zwischenwahlen den Druck auf Kalifornien. Sie wirft dem Bundesstaat vor, Nichtstaatsbürger wählen zu lassen.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/kalifornien-wahl-nicht-staatsbuerger-us-justizministerium-donald-trump",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-30T03:21:04.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Amazon wächst weniger stark als erwartet, hohe KI-Investitionen dämpfen Aktie",
+      "summary": "Umsatz und Gewinne wachsen weiter, gerade im Cloud-Bereich Amazons. Vom Handel wurde aber höherer Zuwachs erwartet.",
+      "url": "https://www.heise.de/news/Amazon-waechst-weniger-stark-als-erwartet-hohe-KI-Investitionen-daempfen-Aktie-11505585.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-30T04:03:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "Kommentar zum \"Tankrabatt\": Die Regierung schmeißt Milliarden aus dem Fenster",
+      "summary": "Vor vier Wochen ist die Neuauflage des \"Tankrabatts\" in Kraft getreten. Für die Bundesregierung war es eine Beruhigungspille kurz vor den Wahlen, meint Jan Zimmermann.",
+      "url": "https://www.tagesschau.de/kommentar/tankrabatt-ein-monat-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-29T14:25:14.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Liveblog Ukrainekrieg: Minen geräumt: Weg für Hilfe nach Oleschky offenbar frei",
+      "summary": "Humanitäre Hilfsaktion geht in entscheidende Phase +++ Russland greift Kiew abermals mit ballistischen Raketen an +++ Anschlag auf Starlink-Antennen: Zwei Deutsche in Auslieferungshaft +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-minen-geraeumt-weg-fuer-hilfe-nach-oleschky-offenbar-frei-faz-110683325.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-30T05:26:14.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}

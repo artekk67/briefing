@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-10-30",
+      "title": "Freitag: Google-Konzern mit massivem Börsenverlust, Amazon mit hohen KI-Kosten",
+      "count": 10
+    },
+    {
       "date": "2026-10-29",
       "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
       "count": 10
@@ -111,5 +116,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-10-29T06:35:04.857Z"
+  "updatedAt": "2026-10-30T06:35:32.864Z"
 }
