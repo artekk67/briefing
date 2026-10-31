@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-10-31",
+      "title": "USA unter Trump: US-Gericht verbietet Trumps Regierung Druck auf Wahlhelfer",
+      "count": 10
+    },
+    {
       "date": "2026-10-30",
       "title": "Freitag: Google-Konzern mit massivem Börsenverlust, Amazon mit hohen KI-Kosten",
       "count": 10
@@ -116,5 +121,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-10-30T06:35:32.864Z"
+  "updatedAt": "2026-10-31T06:10:03.058Z"
 }

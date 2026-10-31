@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T06:10:03.058Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "USA unter Trump: US-Gericht verbietet Trumps Regierung Druck auf Wahlhelfer",
+      "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-us-gericht-verbietet-trumps-regierung-druck-auf-wahlhelfer-faz-19444916.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-31T03:21:52.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "Namensstreit: Begriff „Mitgliedschaft“ wird zum Störfaktor beim EU-Kanada-Gipfel",
+      "summary": "Ist es eine „Allianz“ oder doch eine „assoziierte Mitgliedschaft“? Die Uneinigkeit darüber, wie die vertiefte Partnerschaft zwischen der EU und Kanada genannt werden soll, wurde beim Gipfel in Montreal zum Politikum.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/begriff-mitgliedschaft-wird-zum-stoerfaktor-beim-eu-kanada-gipfel-accg-201638580.html",
+      "source": "FAZ",
+      "category": "welt",
+      "publishedAt": "2026-10-31T02:55:10.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "Sondierungen: Noch ist es nicht zu spät für SPD und Grüne",
+      "summary": "Wenn SPD und Grüne in Berlin noch die Kurve kriegen wollen, dann müssen sie mit der CDU sondieren. Und die Koalitionsverhandlungen mit der Linkspartei absagen.",
+      "url": "https://www.faz.net/aktuell/politik/inland/sondierungen-noch-ist-es-nicht-zu-spaet-fuer-spd-und-gruene-201636643.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-30T16:30:26.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "US-Regierung genehmigt \"Patriot\"-Lieferungen an Ukraine",
+      "summary": "Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken.",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-10-30T23:56:24.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Regierungsbildung in Berlin: Linkenchefs stärken Elif Eralp vor Parteitag den Rücken",
+      "summary": "Die Bundesvorsitzenden der Linken bekräftigen vor ihrem Parteitag in Berlin, die Partei lasse sich nicht einschüchtern. Ihr Ziel bleibe eine rot-rot-grüne Koalition.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/elif-eralp-linke-berlin-ines-schwerdtner-luigi-pantisano",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-31T04:22:54.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Kompromisskandidat: Türkei nominiert OSZE-Chef für Guterres-Nachfolge",
+      "summary": "Der Auswahlprozess für die Nachfolge von UN-Generalsekretär António Guterres ist ins Stocken gekommen. Nun bringt die Erdogan-Regierung einen erfahrenen türkischen Diplomaten in Stellung.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/tuerkei-nominiert-osze-chef-fuer-guterres-nachfolge-accg-201638697.html",
+      "source": "FAZ",
+      "category": "welt",
+      "publishedAt": "2026-10-31T05:24:04.000Z",
+      "alsoReportedBy": [
+        "DIE ZEIT"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Kalifornien: Trump-Regierung scheitert mit Klage gegen Briefwähler",
+      "summary": "Donald Trump behauptet, Briefwahl schüre Wahlbetrug. Mehrere Richter wiesen den US-Präsidenten nun in seine Schranken.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/us-berufungsgericht-kalifornien-briefwahl-donald-trump",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-10-31T05:23:28.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Adobe-Konkurrenz? Das taugt KI-Klon PhotoCraft | c't uplink",
+      "summary": "Das Projekt ArtCraft entstand per Vibe-Coding und ahmt Photoshop, PowerPoint & Co. nach.",
+      "url": "https://www.heise.de/news/Adobe-Konkurrenz-Das-taugt-KI-Klon-PhotoCraft-c-t-uplink-11505956.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-31T05:30:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "OpenAI verdoppelt ausgewählte Nutzungslimits und aktualisiert KI-Ziele",
+      "summary": "OpenAI verdoppelt anscheinend die Nutzungskontingente für einige Pro- und Business-Kunden. Zudem wurden die Modellspezifikationen für KI aktualisiert.",
+      "url": "https://www.heise.de/news/OpenAI-verdoppelt-ausgewaehlte-Nutzungslimits-und-aktualisiert-KI-Ziele-11506206.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-30T14:02:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Oracle Fusion: ChatGPT soll Geschäftsabläufe starten statt nur erklären",
+      "summary": "Oracle erweitert seine Cloud-Unternehmenssoftware Fusion mit KI-Assistenten. Fusion Companion und Agentic Home sollen Aufgaben vereinfachen.",
+      "url": "https://www.heise.de/news/Oracle-Fusion-ChatGPT-soll-Geschaeftsablaeufe-starten-statt-nur-erklaeren-11505931.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-30T11:41:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
