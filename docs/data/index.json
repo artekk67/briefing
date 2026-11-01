@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-11-01",
+      "title": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
+      "count": 10
+    },
+    {
       "date": "2026-10-31",
       "title": "USA unter Trump: US-Gericht verbietet Trumps Regierung Druck auf Wahlhelfer",
       "count": 10
@@ -121,5 +126,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-10-31T06:10:03.058Z"
+  "updatedAt": "2026-11-01T06:39:12.413Z"
 }

@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T06:39:12.413Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
+      "summary": "Sechs Wochen nach der Wahl in Berlin ist der Weg frei für rot-grün-rote Koalitionsverhandlungen: Nach Grünen und SPD stimmte nun auch der Parteitag der Linken dafür. Am Montag sollen die Gespräche beginnen.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-31T18:00:40.000Z",
+      "alsoReportedBy": [
+        "FAZ"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Parteien: Annegret Kramp-Karrenbauer warnt vor AfD und Linken",
+      "summary": "Regierungen der Linken in Berlin und der AfD in Sachsen-Anhalt würden das Leben vieler stark verändern, sagt die ehemalige CDU‑Vorsitzende. Die Sicherheit sei in Gefahr.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/cdu-kramp-karrenbauer-koalitionen-linke-afd-berlin-sachsen-anhalt",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-11-01T04:39:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "Nach Berlinwahl: Berliner Linke stimmt für Aufnahme von Koalitionsgesprächen",
+      "summary": "Die Linkspartei in Berlin wird mit Grünen und SPD über die Bildung einer gemeinsamen Regierung verhandeln. An diesem Montag können die Gespräche beginnen.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/berliner-linke-stimmt-fuer-aufnahme-von-koalitionsverhandlungen",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-10-31T16:28:07.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Linke in Berlin kommen der Regierungsübernahme näher",
+      "summary": "Auf einem Parteitag ebnet die Linke im Stadtstaat Berlin den Weg zu Koalitionsverhandlungen mit Grünen und SPD. Für Unruhe sorgt weiter ein umstrittener Medienbericht über die potenzielle Regierungschefin Elif Eralp.",
+      "url": "https://www.dw.com/de/linke-in-berlin-kommen-der-regierungsübernahme-näher/a-79817713?maca=de-rss-de-all-1119-rdf",
+      "source": "Deutsche Welle",
+      "category": "welt",
+      "publishedAt": "2026-10-31T17:55:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
+      "summary": "In Berlin läuft der Parteitag der Linkspartei. Fraktionschefin Eralp verteidigte das Sondierungspapier mit Grünen sowie SPD und warb für Koalitionsverhandlungen.",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-10-31T19:39:40.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Parteitag in Berlin: Elif Eralp gibt sich kämpferisch – und erringt einen Sieg",
+      "summary": "Die Bürgermeisterkandidatin der Berliner Linken wird mit Grünen und SPD über eine Koalition verhandeln. Es ist ein Erfolg nach Wochen des Drucks.",
+      "url": "https://www.faz.net/aktuell/politik/inland/elif-eralp-fuehrt-die-berliner-linke-in-koalitionsverhandlungen-mit-spd-und-gruenen-201639508.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-10-31T17:26:57.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
+      "summary": "Laut Experten war es der bisher größte Hackerangriff auf eine Börse für Digitalwährungen. Am Donnerstag war er bekannt geworden - und schnell geriet Nordkorea ins Visier.",
+      "url": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-11-01T02:06:07.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "heise-Angebot: iX-Workshop: Multiagentensysteme entwickeln und in eigene Software integrieren",
+      "summary": "Üben Sie direkt am Code, wie Sie aus spezialisierten KI-Agenten ein eigenes Multiagentensystem aufbauen, das komplexe Aufgaben automatisiert erledigen kann.",
+      "url": "https://www.heise.de/news/iX-Workshop-Multiagentensysteme-entwickeln-und-in-eigene-Software-integrieren-11480248.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-31T09:00:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "KI verdrängt Fotostudios, Canon warnt vor Preisanstieg – News der Woche 44/2026",
+      "summary": "Mode setzt auf KI-Fotografie, Studios schließen. Canon kündigt teurere Kameras an.",
+      "url": "https://www.heise.de/news/KI-verdraengt-Fotostudios-Canon-warnt-vor-Preisanstieg-News-der-Woche-44-2026-11506308.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-31T09:00:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Förderung für 300mm-Wafer in Itzehoe an Vishay übergeben",
+      "summary": "Power-Mosfets aus Schleswig-Holstein werden künftig auf größeren Siliziumscheiben gefertigt – Vishay erweitert seine Chipfabrik.",
+      "url": "https://www.heise.de/news/Foerderung-fuer-300mm-Wafer-in-Itzehoe-an-Vishay-uebergeben-11507214.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-10-31T16:58:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
