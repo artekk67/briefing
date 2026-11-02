@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-11-02",
+      "title": "Digitalgipfel der Bundesregierung: Ist der KI-Zug in Deutschland schon abgefahren?",
+      "count": 10
+    },
+    {
       "date": "2026-11-01",
       "title": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
       "count": 10
@@ -126,5 +131,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-11-01T06:39:12.413Z"
+  "updatedAt": "2026-11-02T06:59:42.115Z"
 }

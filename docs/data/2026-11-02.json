@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T06:59:42.115Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Digitalgipfel der Bundesregierung: Ist der KI-Zug in Deutschland schon abgefahren?",
+      "summary": "Die Bundesregierung lädt zum Digitalgipfel nach Berlin. Im Mittelpunkt der zweitägigen Konferenz steht die Frage, wie Deutschland und Europa beim Thema Künstliche Intelligenz global mitreden können.Von J.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/digitalgipfel-bundesregierung-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-11-02T04:19:28.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "Deutschland Liveblog: Pistorius gegen Koalitionsverhandlungen mit der Linken",
+      "summary": "Mehr als 700 SPD-Politiker warnen vor Bündnis mit der Linken +++ Berliner Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD – deutliche Mehrheit auf Landesparteitag +++ Elif Eralp zeigt sich kämpferisch +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-pistorius-gegen-koalitionsverhandlungen-mit-der-linken-faz-110093143.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-11-02T06:08:38.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "Rot-grün-rote Koalitionsgespräche in Berlin starten",
+      "summary": "Linke, Grüne und SPD in Berlin beginnen ihre Verhandlungen über eine mögliche gemeinsame Regierung. Bis Dezember könnte ein Koalitionsvertrag stehen - doch sicher ist das nicht.",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-11-02T04:42:48.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Krieg gegen die Ukraine: Cyberangriffe stören ukrainische und russische Warn-Apps",
+      "summary": "Nach Behördenangaben sind Warn-Apps in der Ukraine und in Russland gehackt worden. Die App Air Alert warnte in Kyjiw fälschlicherweise vor radioaktiver Strahlung.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/hackerangriffe-warn-apps-ukraine-russland-air-alert-cyberangriff",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-11-02T03:23:52.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Wildberger bestätigt ARD-Bericht zu Hackerangriff",
+      "summary": "Nach Informationen der ARD hat es möglicherweise einen Hackerangriff auf Bundestagsabgeordnete und Mitglieder der Bundesregierung gegeben. Im Bericht aus Berlin bestätigte Digitalminister Wildberger den Einsatz von Spyware.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-11-01T19:59:02.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Apps für Notfall-Warnungen in Ukraine und Russland geknackt",
+      "summary": "Falsche Warnmeldungen in einer geknackten Notfall-App schrecken Bürger in der Ukraine auf. Es folgt ein Cyberangriff auf Russland.",
+      "url": "https://www.heise.de/news/Apps-fuer-Notfall-Warnungen-in-Ukraine-und-Russland-geknackt-11507440.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-02T05:52:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "Kritik an Ammoniak-Importen: Die EU, Russland und die Sprengstoffindustrie",
+      "summary": "Trotz aller Sanktionen importiert die EU russisches Ammoniak - aufgrund eines \"EU-Sonderkontingents\" legal. Nach SWR-Recherchen haben die beteiligten Firmen Verbindungen zu Putin-nahen Oligarchen und zur Sprengstoffindustrie.",
+      "url": "https://www.tagesschau.de/investigativ/swr/ammoniak-eu-russland-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-11-02T04:33:51.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
+      "summary": "Vor Angriffen warnt die Ukraine die Bevölkerung per App. Doch dabei gibt es nun ein Problem: Die App wurde gehackt, in Kiew wurde fälschlicherweise vor \"Gefahr durch Strahlung\" gewarnt.",
+      "url": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-11-02T06:35:32.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "Meta arbeitet offenbar mit chinesischer Hilfe an humanoidem Haushaltsroboter",
+      "summary": "'Max' heißt der Roboter in Menschengestalt, den Meta mit Unterstützung des chinesischen Start-ups Fourier entwickelt haben soll. Ein Verkauf ist nicht geplant.",
+      "url": "https://www.heise.de/news/Meta-arbeitet-offenbar-mit-chinesischer-Hilfe-an-humanoidem-Haushaltsroboter-11507414.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-02T04:04:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Erste Daten von Googles KI-Satellit",
+      "summary": "Google experimentiert mit KI-Beschleunigern im Orbit. Jetzt lieferte das Projekt erste Daten.",
+      "url": "https://www.heise.de/news/Googles-KI-Satellit-sendet-erste-Daten-aus-dem-All-11507302.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-01T15:49:00.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
