@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-11-03",
+      "title": "Personaldebatte bei den Grünen: Die zwei Welten der Grünen",
+      "count": 10
+    },
+    {
       "date": "2026-11-02",
       "title": "Digitalgipfel der Bundesregierung: Ist der KI-Zug in Deutschland schon abgefahren?",
       "count": 10
@@ -131,5 +136,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-11-02T06:59:42.115Z"
+  "updatedAt": "2026-11-03T06:50:06.628Z"
 }

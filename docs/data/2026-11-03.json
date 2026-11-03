@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T06:50:06.628Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Personaldebatte bei den Grünen: Die zwei Welten der Grünen",
+      "summary": "Je schwächer die Bundesregierung, desto intensiver diskutieren die Grünen, wer sie in die nächste Wahl führen soll. Eine beliebte Option brächte einige Probleme.",
+      "url": "https://www.zeit.de/2026/47/personaldebatte-gruene-krise-cem-oezdemir-robert-habeck-katharina-droege",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-11-03T04:33:36.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic zeigt: Selbst Imker-Ratschläge können KI-Fehlverhalten auslösen",
+      "summary": "Ein Anthropic-Experiment zeigt, wie harmlos wirkende Datensätze unerwünschtes KI-Verhalten auslösen. Und wie KI-Agenten solche Risiken aufspüren könnten.",
+      "url": "https://www.heise.de/news/Anthropic-zeigt-Selbst-Imker-Ratschlaege-koennen-KI-Fehlverhalten-ausloesen-11508623.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-03T04:45:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "US-Vermittler Witkoff kündigt Gespräche mit Russland und Ukraine an",
+      "summary": "Die USA, Russland und die Ukraine haben zuletzt im Februar im Dreierformat miteinander gesprochen. Kommende Woche wollen sie wieder zusammenkommen.",
+      "url": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-11-03T03:55:28.000Z",
+      "alsoReportedBy": [
+        "DIE ZEIT"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Koalitionsverhandlungen in Berlin: Das Rumoren in der SPD",
+      "summary": "In Berlin haben die Koalitionsverhandlungen zwischen Linken, Grünen und SPD begonnen. In der SPD gibt es weiterhin Vorbehalte - unter anderem bei Bundespolitikern wie Boris Pistorius und Karl Lauterbach.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-rot-gruen-rot-linke-berlin-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-11-02T17:22:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "AfD und Linke: Warum Extremismus-Vergleiche zu kurz greifen",
+      "summary": "SPD und Grüne laufen Sturm gegen die Gleichsetzung von AfD und der Linken durch CDU und CSU. Experten betonen deutliche Unterschiede, vor allem bei Ideologie und Bewertung des Verfassungsschutzes.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/extremismus-linke-afd-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-11-02T14:09:31.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Gipfel in Abu Dhabi: Was die AfD mit Russland und den Vereinigten Staaten plant",
+      "summary": "In der Vergangenheit rangen in der AfD Transatlantiker und Russland-Freunde um die Außenpolitik. Nun versucht die Partei, beides zusammenzubringen.",
+      "url": "https://www.faz.net/aktuell/politik/inland/afd-plant-gipfel-mit-usa-und-russland-zum-ukrainekrieg-201643729.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-11-02T16:30:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "Liveblog Ukrainekrieg: Selenskyj warnt vor russischem Großangriff während der Midterms",
+      "summary": "Die Ukraine rechnet mit einem russischen Großangriff auf ihre Energieinfrastruktur +++ USA kündigen neue Dreiergespräche an +++ Russland setzt Angriffe auf ukrainische Orte fort +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-warnt-vor-russischem-grossangriff-waehrend-der-midterms-faz-110683325.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-11-03T06:34:14.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Börsenprospekt: 104 Milliarden Verlust bei Anthropic",
+      "summary": "Die KI-Firma Anthropic ließ in ihrem Börsenprospekt zunächst die Zahlen für das dritte Quartal aus. Aus einem Nachtrag geht hervor: Es gab tiefrote Zahlen.",
+      "url": "https://www.heise.de/news/Boersenprospekt-104-Milliarden-Verlust-bei-Anthropic-11508595.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-02T18:11:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "Mit Nvidias Segen: Marvell will Lumentum für 115 Milliarden US-Dollar kaufen",
+      "summary": "Marvell und Lumentum sind beide zentrale Hersteller in der Lieferkette von Nvidia, nun sollen sie zusammengehen. Der enorme Kaufpreis irritiert aber die Börse.",
+      "url": "https://www.heise.de/news/Mit-Nvidias-Segen-Marvell-will-Lumentum-fuer-115-Milliarden-US-Dollar-kaufen-11508781.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-03T05:52:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Rot-grün-rote Koalitionsgespräche in Berlin gestartet",
+      "summary": "Linke, Grüne und SPD haben in Berlin ihre Verhandlungen über eine gemeinsame Regierung begonnen. Bis Dezember könnte ein Koalitionsvertrag stehen - doch sicher ist das nicht.",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-11-02T11:47:01.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
