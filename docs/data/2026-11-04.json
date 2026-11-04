@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T06:53:59.226Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Deutschland Liveblog: Berlin: Grüne und SPD lehnen Sondierungsangebot der CDU ab",
+      "summary": "Grüne und SPD haben bereits Koalitionsverhandlungen mit der Linken begonnen +++ Tübinger Oberbürgermeister Boris Palmer wehrt sich gegen Vorwürfe der sexuellen Belästigung +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-berlin-gruene-und-spd-lehnen-sondierungsangebot-der-cdu-ab-faz-110093143.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-11-03T21:38:05.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "EuGH-Gutachten: KI-Chatbots können Urheberrecht verletzen",
+      "summary": "Presseverlage und Urheber wehren sich gegen die Nutzung ihrer Inhalte durch generative KI-Modelle. Im ersten EuGH-Verfahren zu dem Thema gibt es nun Hinweise.",
+      "url": "https://www.heise.de/news/EuGH-Gutachten-KI-Chatbots-koennen-Urheberrecht-verletzen-11510768.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-04T04:33:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 3,
+      "title": "heise+ | Urheberrecht, Patente, Marken: Was beim KI-Nachbau von Software zu beachten ist",
+      "summary": "KI macht den Nachbau bekannter Programme verlockend einfach. Doch was technisch gelingt, ist längst nicht immer erlaubt.",
+      "url": "https://www.heise.de/hintergrund/Urheberrecht-Patente-Marken-Was-beim-KI-Nachbau-von-Software-zu-beachten-ist-11487778.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-04T06:30:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Ukraine-Krieg: Bundeskanzler Friedrich Merz und der ukrainische Präsident Wolodymyr Selenskyj beraten in Berlin",
+      "summary": "Der ukrainische Präsident Wolodymyr Selenskyj sucht vor neuen Verhandlungen mit Russland und den USA Rückhalt bei Bundeskanzler Friedrich Merz in Berlin. Der Kanzler fand deutliche Worte in Richtung Moskau.",
+      "url": "https://www.dw.com/de/ukraine-krieg-bundeskanzler-friedrich-merz-und-der-ukrainische-präsident-wolodymyr-selenskyj-beraten-in-berlin/a-79846015?maca=de-rss-de-all-1119-rdf",
+      "source": "Deutsche Welle",
+      "category": "welt",
+      "publishedAt": "2026-11-03T19:26:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Migration: 36.000 Menschen erhalten »Chancen-Aufenthaltsrecht« in Deutschland",
+      "summary": "40 Prozent der Menschen, die das sogenannte Chancen-Aufenthaltsrecht nutzen, haben nun ein dauerhaftes Bleiberecht. Die Regel war von der Ampel eingeführt worden.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/chancen-aufenthaltsrecht-duldung-bleiberecht-deutschland-gxe",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-11-04T06:48:29.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Mittwoch: AMD-Gewinnexplosion dank KI-Boom, Mobilfunker-Warnung vor Extremwetter",
+      "summary": "AMDs Server-Business floriert + Mobilfunker rufen nach Politik + Führerschein bald in Smartphone-App + EuGH zu Raupkopien durch KI + Bit-Rauschen zu Billig-CPUs",
+      "url": "https://www.heise.de/news/Mittwoch-AMD-Gewinnexplosion-dank-KI-Boom-Mobilfunker-Warnung-vor-Extremwetter-11510784.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-04T05:15:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "Karlsruhe prüft Fraktionsausschluss von AfD-Politiker",
+      "summary": "Für den AfD-Politiker Jan Wenzel Schmidt hatte die Vetternwirtschaftsdebatte Folgen. Er flog aus der Fraktion, nachdem er die Debatte ins Rollen gebracht hatte.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-afd-fraktionsausschluss-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-11-04T05:22:34.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Energiekrise: Handwerksbetriebe rechnen mit steigenden Preisen für Kunden",
+      "summary": "Höhere Kosten für Energie und Baustoffe machen Handwerksleistungen teurer. Der Branchenverband ZDH fordert von der Bundesregierung Entlastung für die Betriebe.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/handwerk-preise-angebote-kosten-zdh",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-11-04T05:09:26.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "Renten könnten 2027 um 4,1 Prozent steigen",
+      "summary": "Rentnerinnen und Rentner können sich auf spürbar steigende Bezüge einstellen. Der Rentenversicherungsbericht der Bundesregierung geht im kommenden Jahr von einer Steigerung von mehr als vier Prozent aus.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-11-03T19:05:51.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Midterms: Donald Trump gratuliert Demokraten zu Wahlsieg",
+      "summary": "Die Demokraten haben künftig die Mehrheit in beiden US‑Kongresskammern. Präsident Trump weist die Verantwortung für die Niederlage seiner Partei von sich.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/midterms-usa-kongresswahlen-liveblog",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-11-04T06:44:23.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
