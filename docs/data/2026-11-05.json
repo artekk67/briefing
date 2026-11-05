@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T06:56:13.611Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Donnerstag: Millionen für europäische Chipdesigns, OpenAI mit GitHub-Alternative",
+      "summary": "EU-Initiative zur Chip-Unabhängigkeit + Infrastruktur für Coding per KI + Digitalisierungsmangel bei Gesundheitsämtern + Sparmaßnahmen bei Canva + #heiseshow",
+      "url": "https://www.heise.de/news/Donnerstag-Millionen-fuer-europaeische-Chipdesigns-OpenAI-mit-GitHub-Alternative-11512814.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-05T05:15:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "Pflegereform: Bundestag debattiert über Pflegereform",
+      "summary": "Die Bundesregierung will die Pflegekassen mit Einsparungen stabilisieren. Darüber berät heute der Bundestag.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/pflegereform-pflegeversicherung-bundestag-beitrag-2026-expertenkommission",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-11-05T02:26:09.000Z",
+      "alsoReportedBy": [
+        "tagesschau.de"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Streit in Fraktion: Die Abstimmungsgeräte der AfD weckten die Neugier der Richter",
+      "summary": "Im März wurde Jan Wenzel Schmidt aus der AfD-Bundestagsfraktion ausgeschlossen. Das Bundesverfassungsgericht verhandelte am Mittwoch, ob das rechtmäßig war.",
+      "url": "https://www.faz.net/aktuell/politik/inland/karlsruhe-verhandelt-ueber-ausschluss-aus-afd-fraktion-201650521.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-11-04T21:22:54.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
+      "summary": "Die Wahlschlappe von Trumps Republikanern lässt viele in der Ukraine auf einen Kurswechsel der USA hoffen. Doch ob es tatsächlich so schnell zu Veränderungen kommt, daran zweifelt man.",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html",
+      "source": "tagesschau.de",
+      "category": "welt",
+      "publishedAt": "2026-11-05T00:10:07.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "OpenAI wird mit Übernahme von Pierre Computer zum GitHub-Konkurrenten",
+      "summary": "Entwicklerwerkzeuge von Pierre sollen in Codex integriert werden. Damit baut OpenAI eine Infrastruktur für KI-Coding auf - Konkurrenz zu GitHub und Microsoft?",
+      "url": "https://www.heise.de/news/OpenAI-wird-mit-Uebernahme-von-Pierre-Computer-zum-GitHub-Konkurrenten-11512804.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-05T04:05:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "#heiseshow: Kühlschrank-Cyberangriffe, Internetsteuer, digitaler Führerschein",
+      "summary": "In der #heiseshow: Hacker knacken Supermarkt-Kühlschränke, Frankreich diskutiert eine Gigabyte-Steuer und der digitale Führerschein startet.",
+      "url": "https://www.heise.de/news/heiseshow-Kuehlschrank-Cyberangriffe-Internetsteuer-digitaler-Fuehrerschein-11512629.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-05T05:19:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "Deutschland Liveblog: CDU-Politiker unterstützen Aigner als Bundespräsidentin",
+      "summary": "Alle CDU-Ministerpräsidenten aus dem Osten für CSU-Politikerin – Redmann: Genau das braucht unser Land jetzt +++ Linken-Fraktionschefin erwägt Kandidatur gegen Siegmund +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-cdu-politiker-unterstuetzen-aigner-als-bundespraesidentin-faz-110093143.html",
+      "source": "FAZ",
+      "category": "de",
+      "publishedAt": "2026-11-04T18:01:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Chipfertigung: EU investiert Hunderte Millionen in Chipdesign-Plattform",
+      "summary": "Mit Investitionen in Höhe von 525 Millionen Euro fördert die EU eine neue Generation europäischer Chipdesign-Unternehmen. Europa will unabhängiger werden.",
+      "url": "https://www.heise.de/news/Europaeische-Chipdesign-Plattform-EU-investiert-Hunderte-Millionen-11512717.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-04T20:13:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "Domain-Jubiläum: Wie KI und Apps die Bedeutung von .de verändern",
+      "summary": "Für „shopping.de“ wurden fast zwei Millionen Euro gezahlt, heute gibt es über 18 Millionen .de-Domains. Apps und KI verändern, wie wir Adressen im Netz nutzen.",
+      "url": "https://www.heise.de/news/de-wird-40-Deutschlands-digitale-Adresse-im-Wandel-11511264.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-05T06:21:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Ukrainepolitik der USA: Die Ukraine soll für Trumps Fehler bezahlen",
+      "summary": "Der US-Präsident schlägt sich auf die Seite Russlands, bootet die Europäer aus und hofiert Putin. Was ist jetzt drin für den Kreml?",
+      "url": "https://www.zeit.de/politik/2026-11/usa-ukraine-donald-trump-wladimir-putin-russland-podcast",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-11-05T05:00:06.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
