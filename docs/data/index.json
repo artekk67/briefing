@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-11-06",
+      "title": "Kritik am Bundeskanzler: CDU-Außenpolitiker Kiesewetter spricht Merz Fingerspitzengefühl ab",
+      "count": 10
+    },
+    {
       "date": "2026-11-05",
       "title": "Donnerstag: Millionen für europäische Chipdesigns, OpenAI mit GitHub-Alternative",
       "count": 10
@@ -146,5 +151,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-11-05T06:56:13.611Z"
+  "updatedAt": "2026-11-06T06:55:45.322Z"
 }

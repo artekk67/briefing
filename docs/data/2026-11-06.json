@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T06:55:45.322Z",
+  "mode": "regeln",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Kritik am Bundeskanzler: CDU-Außenpolitiker Kiesewetter spricht Merz Fingerspitzengefühl ab",
+      "summary": "Kanzler Friedrich Merz stößt in der eigenen Partei zunehmend auf Kritik. Die Debatte um das Bundespräsidentenamt führe er dilettantisch, sagt Roderich Kiesewetter.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/bundespraesident-nachfolge-ilse-aigner-friedrich-merz-cdu-csu-kritik-roderich-kiesewetter",
+      "source": "DIE ZEIT",
+      "category": "de",
+      "publishedAt": "2026-11-06T02:20:17.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 2,
+      "title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+      "summary": "Eigentlich sollte die Tabaksteuer erst zum Jahreswechsel erhöht werden - doch durch ein Versehen trat die Erhöhung schon jetzt in Kraft. Nun heißt es per Gesetzesänderung: Kommando zurück.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-11-06T00:55:35.000Z",
+      "alsoReportedBy": [
+        "DIE ZEIT"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Freitag: OpenAIs folgsame neue Cybersecurity-KI, Trainingsauflagen für Meta-KI",
+      "summary": "GPT-6 Cyber im Zaum + KI-Verbot für Medieninhalte + Tech-Konzerne gegen Jugendschutz-Gesetz + Videoüberwachung in Schlachthöfen + Verbraucherschutz-Podcast",
+      "url": "https://www.heise.de/news/Freitag-OpenAIs-folgsame-neue-Cybersecurity-KI-Trainingsauflagen-fuer-Meta-KI-11514290.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-06T05:15:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 4,
+      "title": "OpenAIs für Cybersecurity verbessertes KI-Modell GPT-6 Cyber hält sich an Regeln",
+      "summary": "Das neue KI-Modell GPT-6 Cyber soll mehr Schwachstellen finden können, aber innerhalb vorgegebener Grenzen bleiben. Ausbrüche will OpenAI damit nun vermeiden.",
+      "url": "https://www.heise.de/news/OpenAIs-fuer-Cybersecurity-verbessertes-KI-Modell-GPT-6-Cyber-haelt-sich-an-Regeln-11514280.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-06T04:04:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 5,
+      "title": "Nach US-Zwischenwahlen: Skepsis zum KI-Boom löst heftigen Börsenabsturz aus",
+      "summary": "Bei den US-Zwischenwahlen wurde deutlich, wie stark die Ablehnung von Rechenzentren dort ist. Mit einem Tag Verzögerung haben die Börsen nun mit Wucht reagiert.",
+      "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-Skepsis-zum-KI-Boom-loest-heftigen-Boersenabsturz-aus-11514310.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "category": "tech",
+      "publishedAt": "2026-11-06T06:03:00.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 6,
+      "title": "Marktbericht: Aus Wahleuphorie wird Wahlkater",
+      "summary": "Die Furcht vor einer schärferen KI-Regulierung hat die Wall Street auf Talfahrt geschickt, vor allem Tech-Werte brechen ein. Der DAX wird sich dem Abwärtstrend nicht entziehen können.",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-11-06T06:26:17.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 7,
+      "title": "Israelische Regierungsbildung: Warum bei den Midterms auch Netanjahu verloren hat",
+      "summary": "Die Regierungsbildung in Israel läuft wie erwartet mühsam – komplizierter macht alles noch die US-Wahl. Und: Nachbarschaft schlägt Pflegenotstand.",
+      "url": "https://www.zeit.de/politik/2026-11/israel-regierungsbildung-nachrichtenpodcast",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-11-06T05:00:45.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 8,
+      "title": "Liveblog Nahost: Wieder Angriffe auf Iran? Trump kündigt baldige Entscheidung an",
+      "summary": "Militär bereitet sich auf neue Kämpfe vor +++ Eisenkot ist Favorit für Auftrag zur Regierungsbildung in Israel +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-wieder-angriffe-auf-iran-trump-kuendigt-baldige-entscheidung-an-faz-200583539.html",
+      "source": "FAZ",
+      "category": "welt",
+      "publishedAt": "2026-11-06T03:14:46.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 9,
+      "title": "Bundestag plant härtere Strafen für den Einsatz von K.o.-Tropfen",
+      "summary": "Immer wieder werden vor allem Frauen mit K.o.-Tropfen betäubt und erleben sexualisierte Gewalt. Der Bundestag will heute härtere Strafen beschließen.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/ko-tropfen-gesetz-bundestag-100.html",
+      "source": "tagesschau.de",
+      "category": "de",
+      "publishedAt": "2026-11-06T05:17:40.000Z",
+      "alsoReportedBy": []
+    },
+    {
+      "rank": 10,
+      "title": "Karibikinsel: USA verschärfen Sanktionen gegen Kuba",
+      "summary": "Die US-Regierung schränkt mit neuen Strafmaßnahmen Kubas Öl- und Elektrohandel weiter ein. Sie will auf der kommunistisch regierten Insel einen Regimewechsel erzwingen.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/kuba-usa-sanktionen-oel-elektronik-china-ceiec-beijing-hc",
+      "source": "DIE ZEIT",
+      "category": "welt",
+      "publishedAt": "2026-11-06T02:33:15.000Z",
+      "alsoReportedBy": []
+    }
+  ],
+  "notes": []
+}
