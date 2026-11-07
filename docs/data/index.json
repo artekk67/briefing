@@ -1,6 +1,11 @@
 {
   "briefings": [
     {
+      "date": "2026-11-07",
+      "title": "Ilse Aigner: CDU und CSU wollen Ilse Aigner als Bundespräsidentin",
+      "count": 10
+    },
+    {
       "date": "2026-11-06",
       "title": "Kritik am Bundeskanzler: CDU-Außenpolitiker Kiesewetter spricht Merz Fingerspitzengefühl ab",
       "count": 10
@@ -151,5 +156,5 @@
       "count": 10
     }
   ],
-  "updatedAt": "2026-11-06T06:55:45.322Z"
+  "updatedAt": "2026-11-07T06:40:56.814Z"
 }
